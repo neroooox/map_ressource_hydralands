@@ -1,0 +1,36 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 7200,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -182.91716,
+				"worldX": 1500368.13,
+				"worldY": 4109214.5
+			},
+			{
+				"controlPointsDistance": 0,
+				"rotation": 0,
+				"worldX": 1494809.5,
+				"worldY": 2923241.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 2.33731079,
+				"worldX": 2657235.25,
+				"worldY": 2926014.75
+			},
+			{
+				"controlPointsDistance": 74465.38,
+				"rotation": 0.439044952,
+				"worldX": 2700336.75,
+				"worldY": 4108050.5
+			}
+		],
+		"PathId": 7,
+		"PathName": "Ghost ShipPath",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]
