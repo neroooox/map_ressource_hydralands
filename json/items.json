@@ -11,6 +11,153 @@
         },
         "Name": ""
     },
+    "*OLD* AA Bed": {
+        "ClassName": "Structure_AA_Bed_C",
+        "Icon": "T_AA_Bed_Icon",
+        "Ingredients": {
+            "Fibers": 30.0,
+            "Hide": 40.0,
+            "Thatch": 120.0,
+            "Wood": 25.0
+        },
+        "Name": "*OLD* AA Bed"
+    },
+    "*OLD* AA Fancy Wood Ceiling": {
+        "ClassName": "Structure_AA_Ceiling_FancyWood_C",
+        "Icon": "T_AA_Ceiling_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Fancy Wood Ceiling"
+    },
+    "*OLD* AA Fancy Wood Door": {
+        "ClassName": "Structure_AA_Small_Door_FancyWood_C",
+        "Icon": "T_AA_Door_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Fancy Wood Door"
+    },
+    "*OLD* AA Fancy Wood Roof": {
+        "ClassName": "Structure_AA_Roof_FancyWood_C",
+        "Icon": "T_AA_Roof_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Fancy Wood Roof"
+    },
+    "*OLD* AA Fancy Wood Wall": {
+        "ClassName": "Structure_AA_Wall_FancyWood_C",
+        "Icon": "T_AA_Wall_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Fancy Wood Wall"
+    },
+    "*OLD* AA Glass Ceiling": {
+        "ClassName": "Structure_AA_Ceiling_Glass_C",
+        "Icon": "T_AA_Ceiling_Square_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "*OLD* AA Glass Ceiling"
+    },
+    "*OLD* AA Glass Roof": {
+        "ClassName": "Structure_AA_Roof_Glass_C",
+        "Icon": "T_AA_Roof_Square_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "*OLD* AA Glass Roof"
+    },
+    "*OLD* AA Glass Wall": {
+        "ClassName": "Structure_AA_Wall_Glass_C",
+        "Icon": "T_AA_Wall_Full_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "*OLD* AA Glass Wall"
+    },
+    "*OLD* AA Tall Stone Slab": {
+        "ClassName": "Structure_AA_Slab_Land_C",
+        "Icon": "T_AA_Slab_Stone_Tall_Icon",
+        "Ingredients": {
+            "AA Lumber": 48.0,
+            "AA Stone Block": 64.0,
+            "Alloy": 48.0,
+            "Fibers": 480.0,
+            "Organic Paste": 256.0,
+            "Thatch": 960.0
+        },
+        "Name": "*OLD* AA Tall Stone Slab"
+    },
+    "*OLD* AA Wood Ceiling": {
+        "ClassName": "Structure_AA_Ceiling_Wood_C",
+        "Icon": "T_Item_AA_Ceiling_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Wood Ceiling"
+    },
+    "*OLD* AA Wood Door": {
+        "ClassName": "Structure_AA_Small_Door_Wood_C",
+        "Icon": "T_Item_AA_Small_Door_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Wood Door"
+    },
+    "*OLD* AA Wood Floor": {
+        "ClassName": "Structure_AA_Floor_Wood_C",
+        "Icon": "T_Item_AA_Floor_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Wood Floor"
+    },
+    "*OLD* AA Wood Roof": {
+        "ClassName": "Structure_AA_Roof_Wood_C",
+        "Icon": "T_Item_AA_Roof_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Wood Roof"
+    },
+    "*OLD* AA Wood Wall": {
+        "ClassName": "Structure_AA_Wall_Wood_C",
+        "Icon": "T_Item_AA_Wall_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "*OLD* AA Wood Wall"
+    },
     "1Tier Monument": {
         "ClassName": "Structure_Monument_FirstTier_C",
         "Icon": "Item_WoodFloor_Icon",
@@ -41,15 +188,1717 @@
         },
         "Name": "1Tier Monument Framework"
     },
-    "ARK Raft": {
-        "ClassName": "Ship_ARK_Raft_C",
-        "Icon": "Raft_Ark_Icon",
+    "AA Agedwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Agedwood_C",
+        "Icon": "T_AA_Lumber_Aged_Icon",
         "Ingredients": {
-            "Fibers": 125.0,
-            "Hide": 60.0,
-            "Wood": 250.0
+            "Cedar": 10.0
         },
-        "Name": "ARK Raft"
+        "Name": "AA Agedwood Lumber"
+    },
+    "AA Amethyst Glass": {
+        "ClassName": "Resource_AA_Glass_Amethyst_C",
+        "Icon": "T_AA_Glass_Amethyst_Icon",
+        "Ingredients": {
+            "AA Amethyst Silica": 5.0
+        },
+        "Name": "AA Amethyst Glass"
+    },
+    "AA Amethyst Silica": {
+        "ClassName": "Resource_AA_Silica_Amethyst_C",
+        "Icon": "T_AA_Silica_Amethyst_Icon",
+        "Ingredients": {
+            "Amethyst": 5.0
+        },
+        "Name": "AA Amethyst Silica"
+    },
+    "AA Asian Lantern": {
+        "ClassName": "Structure_AA_AsianLantern_C",
+        "Icon": "T_AA_AsianLantern_Icon",
+        "Ingredients": {
+            "AA Wax": 1.0,
+            "Fibers": 60.0,
+            "Red Coloring": 1.0,
+            "Thatch": 120.0
+        },
+        "Name": "AA Asian Lantern"
+    },
+    "AA Bed": {
+        "ClassName": "PrimalStructure_AA_Bed_C",
+        "Icon": "T_AA_Bed_Icon",
+        "Ingredients": {
+            "Fibers": 30.0,
+            "Hide": 40.0,
+            "Thatch": 120.0,
+            "Wood": 25.0
+        },
+        "Name": "AA Bed"
+    },
+    "AA Bed (deprecated)": {
+        "ClassName": "Structure_AA_Bed_Deprecated_C",
+        "Icon": "T_AA_Bed_Icon",
+        "Ingredients": {
+            "Fibers": 30.0,
+            "Hide": 40.0,
+            "Thatch": 120.0,
+            "Wood": 25.0
+        },
+        "Name": "AA Bed (deprecated)"
+    },
+    "AA Bottle Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Bottle_C",
+        "Icon": "T_Item_AA_Prop_Bottle_Icon",
+        "Ingredients": {
+            "AA Glass": 1.0
+        },
+        "Name": "AA Bottle Decor"
+    },
+    "AA Bottle Rack Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_BottleRack_C",
+        "Icon": "T_Item_AA_Prop_BottleRack_Icon",
+        "Ingredients": {
+            "AA Bottle Decor": 13.0,
+            "Metal": 50.0,
+            "Thatch": 400.0,
+            "Wood": 400.0
+        },
+        "Name": "AA Bottle Rack Decor"
+    },
+    "AA Bulk Forge": {
+        "ClassName": "PrimalStructure_AA_Forge_Bulk_C",
+        "Icon": "T_AA_Forge_Bulk_Icon",
+        "Ingredients": {
+            "AA Lumber": 4.0,
+            "AA Stone Block": 25.0,
+            "Alloy": 20.0,
+            "Flint": 20.0,
+            "Organic Paste": 128.0
+        },
+        "Name": "AA Bulk Forge"
+    },
+    "AA Bulk Mortar & Pestle": {
+        "ClassName": "PrimalStructure_AA_MortarAndPestle_Bulk_C",
+        "Icon": "T_AA_MortarAndPestle_Bulk_Icon",
+        "Ingredients": {
+            "AA Lumber": 8.0,
+            "AA Mortar & Pestle": 5.0,
+            "AA Stone Block": 8.0,
+            "Organic Paste": 64.0
+        },
+        "Name": "AA Bulk Mortar & Pestle"
+    },
+    "AA Cage Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Cage_Metal_C",
+        "Icon": "T_Item_AA_Prop_HumanCage_Icon",
+        "Ingredients": {
+            "Alloy": 100.0,
+            "Oil": 20.0
+        },
+        "Name": "AA Cage Decor"
+    },
+    "AA Calcite Glass": {
+        "ClassName": "Resource_AA_Glass_Calcite_C",
+        "Icon": "T_AA_Glass_Calcite_Icon",
+        "Ingredients": {
+            "AA Calcite Silica": 5.0
+        },
+        "Name": "AA Calcite Glass"
+    },
+    "AA Calcite Silica": {
+        "ClassName": "Resource_AA_Silica_Calcite_C",
+        "Icon": "T_AA_Silica_Calcite_Icon",
+        "Ingredients": {
+            "Calcite": 5.0
+        },
+        "Name": "AA Calcite Silica"
+    },
+    "AA Candle": {
+        "ClassName": "Resource_AA_Candle_C",
+        "Icon": "T_AA_Candle_Icon",
+        "Ingredients": {
+            "AA Wax": 2.0,
+            "Fibers": 10.0
+        },
+        "Name": "AA Candle"
+    },
+    "AA Cheatbox": {
+        "ClassName": "PrimalStructure_AA_Cheatbox_C",
+        "Icon": "Item_CargoShipAttachment_Icon",
+        "Name": "AA Cheatbox"
+    },
+    "AA Converter": {
+        "ClassName": "Structure_AA_Converter_C",
+        "Icon": "T_AA_Converter_Icon",
+        "Ingredients": {
+            "Fibers": 200.0,
+            "Flint": 5.0,
+            "Hide": 100.0,
+            "Metal": 50.0,
+            "Stone": 100.0,
+            "Wood": 500.0
+        },
+        "Name": "AA Converter"
+    },
+    "AA Cooking Structure Base": {
+        "ClassName": "BASE_PrimalStructure_AA_Cooking_C",
+        "Name": "AA Cooking Structure Base"
+    },
+    "AA Coquina Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Coquina_C",
+        "Icon": "T_AA_StoneBlock_Coquina_Icon",
+        "Ingredients": {
+            "Coquina": 20.0
+        },
+        "Name": "AA Coquina Stone Block"
+    },
+    "AA Crafting (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Crafting_Deprecated_C",
+        "Name": "AA Crafting (deprecated)"
+    },
+    "AA Darkwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Darkwood_C",
+        "Icon": "T_AA_Lumber_Dark_Icon",
+        "Ingredients": {
+            "Poplar": 10.0
+        },
+        "Name": "AA Darkwood Lumber"
+    },
+    "AA Diamond": {
+        "ClassName": "Resource_AA_Crystal_Diamond_C",
+        "Icon": "T_AA_Diamond_Icon",
+        "Name": "AA Diamond"
+    },
+    "AA Diamond Glass": {
+        "ClassName": "Resource_AA_Glass_Diamond_C",
+        "Icon": "T_AA_Glass_Diamond_Icon",
+        "Ingredients": {
+            "AA Diamond Silica": 5.0
+        },
+        "Name": "AA Diamond Glass"
+    },
+    "AA Diamond Silica": {
+        "ClassName": "Resource_AA_Silica_Diamond_C",
+        "Icon": "T_AA_Silica_Diamond_Icon",
+        "Ingredients": {
+            "AA Diamond": 5.0
+        },
+        "Name": "AA Diamond Silica"
+    },
+    "AA Dock Cleat Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_DockCleat_C",
+        "Icon": "T_Item_AA_Prop_DockCleat_Icon",
+        "Ingredients": {
+            "Alloy": 100.0,
+            "Fibers": 500.0
+        },
+        "Name": "AA Dock Cleat Decor"
+    },
+    "AA Door (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Door_Deprecated_C",
+        "Name": "AA Door (deprecated)"
+    },
+    "AA Fancy Wood Ceiling": {
+        "ClassName": "PrimalStructure_AA_Ceiling_FancyWood_C",
+        "Icon": "T_AA_Ceiling_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Fancy Wood Ceiling"
+    },
+    "AA Fancy Wood Door": {
+        "ClassName": "PrimalStructure_AA_Door_FancyWood_C",
+        "Icon": "T_AA_Door_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Fancy Wood Door"
+    },
+    "AA Fancy Wood Roof": {
+        "ClassName": "PrimalStructure_AA_Roof_FancyWood_C",
+        "Icon": "T_AA_Roof_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Fancy Wood Roof"
+    },
+    "AA Fancy Wood Wall": {
+        "ClassName": "PrimalStructure_AA_Wall_FancyWood_C",
+        "Icon": "T_AA_Wall_FancyWood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Fancy Wood Wall"
+    },
+    "AA Flag Marker": {
+        "ClassName": "Structure_AA_FlagMarker_C",
+        "Icon": "T_AA_FlagMarker_Icon",
+        "Ingredients": {
+            "Fibers": 120.0,
+            "Thatch": 60.0,
+            "Wood": 80.0
+        },
+        "Name": "AA Flag Marker"
+    },
+    "AA Floor (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Floor_Deprecated_C",
+        "Name": "AA Floor (deprecated)"
+    },
+    "AA Forge": {
+        "ClassName": "Structure_AA_Forge_Small_C",
+        "Icon": "T_AA_Forge_Compact_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 5.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 125.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Forge"
+    },
+    "AA Glass": {
+        "ClassName": "Resource_AA_Glass_BASE_C",
+        "Icon": "T_AA_Glass_Icon",
+        "Ingredients": {
+            "AA Silica": 5.0
+        },
+        "Name": "AA Glass"
+    },
+    "AA Glass Ceiling": {
+        "ClassName": "PrimalStructure_AA_Ceiling_Glass_C",
+        "Icon": "T_AA_Ceiling_Square_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "AA Glass Ceiling"
+    },
+    "AA Glass Door": {
+        "ClassName": "PrimalStructure_AA_Door_Glass_C",
+        "Icon": "T_AA_Door_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 10.0,
+            "Fibers": 5.0,
+            "Thatch": 15.0,
+            "Wood": 10.0
+        },
+        "Name": "AA Glass Door"
+    },
+    "AA Glass Roof": {
+        "ClassName": "PrimalStructure_AA_Roof_Glass_C",
+        "Icon": "T_AA_Roof_Square_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "AA Glass Roof"
+    },
+    "AA Glass Wall": {
+        "ClassName": "PrimalStructure_AA_Wall_Glass_C",
+        "Icon": "T_AA_Wall_Full_Glass_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 10.0,
+            "Thatch": 30.0,
+            "Wood": 25.0
+        },
+        "Name": "AA Glass Wall"
+    },
+    "AA Granite Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Granite_C",
+        "Icon": "T_AA_StoneBlock_Granite_Icon",
+        "Ingredients": {
+            "Granite": 20.0
+        },
+        "Name": "AA Granite Stone Block"
+    },
+    "AA Grill": {
+        "ClassName": "Structure_AA_Grill_C",
+        "Icon": "T_AA_Grill_Icon",
+        "Ingredients": {
+            "Crystal": 4.0,
+            "Fibers": 40.0,
+            "Flint": 30.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 180.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Grill"
+    },
+    "AA Heater": {
+        "ClassName": "Structure_AA_Heater_C",
+        "Icon": "T_Item_AA_Heater_Icon",
+        "Ingredients": {
+            "Alloy": 5.0,
+            "Flint": 10.0,
+            "Oil": 40.0
+        },
+        "Name": "AA Heater"
+    },
+    "AA Heavy Wood Ceiling": {
+        "ClassName": "PrimalStructure_AA_Ceiling_HeavyWood_C",
+        "Icon": "T_AA_Ceiling_HeavyWood_Icon",
+        "Ingredients": {
+            "AA Lumber": 8.0,
+            "Fibers": 40.0,
+            "Thatch": 120.0
+        },
+        "Name": "AA Heavy Wood Ceiling"
+    },
+    "AA Heavy Wood Door": {
+        "ClassName": "PrimalStructure_AA_Door_HeavyWood_C",
+        "Icon": "T_AA_Door_HeavyWood_Icon",
+        "Ingredients": {
+            "AA Lumber": 8.0,
+            "Fibers": 40.0,
+            "Thatch": 120.0
+        },
+        "Name": "AA Heavy Wood Door"
+    },
+    "AA Heavy Wood Roof": {
+        "ClassName": "PrimalStructure_AA_Roof_HeavyWood_C",
+        "Icon": "T_AA_Roof_HeavyWood_Icon",
+        "Ingredients": {
+            "AA Lumber": 8.0,
+            "Fibers": 40.0,
+            "Thatch": 120.0
+        },
+        "Name": "AA Heavy Wood Roof"
+    },
+    "AA Heavy Wood Wall": {
+        "ClassName": "PrimalStructure_AA_Wall_HeavyWood_C",
+        "Icon": "T_AA_Wall_HeavyWood_Icon",
+        "Ingredients": {
+            "AA Lumber": 8.0,
+            "Fibers": 40.0,
+            "Thatch": 120.0
+        },
+        "Name": "AA Heavy Wood Wall"
+    },
+    "AA Herkimer Glass": {
+        "ClassName": "Resource_AA_Glass_Herkimer_C",
+        "Icon": "T_AA_Glass_Herkimer_Icon",
+        "Ingredients": {
+            "AA Herkimer Silica": 5.0
+        },
+        "Name": "AA Herkimer Glass"
+    },
+    "AA Herkimer Silica": {
+        "ClassName": "Resource_AA_Silica_Herkimer_C",
+        "Icon": "T_AA_Silica_Herkimer_Icon",
+        "Ingredients": {
+            "Herkimer": 5.0
+        },
+        "Name": "AA Herkimer Silica"
+    },
+    "AA Ironwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Ironwood_C",
+        "Icon": "T_AA_Lumber_Iron_Icon",
+        "Ingredients": {
+            "Ironwood": 10.0
+        },
+        "Name": "AA Ironwood Lumber"
+    },
+    "AA Lighting (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Lighting_Deprecated_C",
+        "Name": "AA Lighting (deprecated)"
+    },
+    "AA Lightwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Lightwood_C",
+        "Icon": "T_AA_Lumber_Light_Icon",
+        "Ingredients": {
+            "Ash": 10.0
+        },
+        "Name": "AA Lightwood Lumber"
+    },
+    "AA Limestone Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Limestone_C",
+        "Icon": "T_AA_StoneBlock_Limestone_Icon",
+        "Ingredients": {
+            "Limestone": 20.0
+        },
+        "Name": "AA Limestone Stone Block"
+    },
+    "AA Loom": {
+        "ClassName": "Structure_AA_Loom_Small_C",
+        "Icon": "T_AA_Loom_Full_Icon",
+        "Ingredients": {
+            "Fibers": 120.0,
+            "Keratinoid": 65.0,
+            "Metal": 20.0,
+            "Stone": 20.0,
+            "Wood": 98.0
+        },
+        "Name": "AA Loom"
+    },
+    "AA Lumber": {
+        "ClassName": "Resource_AA_Lumber_BASE_C",
+        "Icon": "T_AA_Lumber_BASE_Icon",
+        "Ingredients": {
+            "Wood": 10.0
+        },
+        "Name": "AA Lumber"
+    },
+    "AA Marble Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Marble_C",
+        "Icon": "T_AA_StoneBlock_Marble_Icon",
+        "Ingredients": {
+            "Marble": 20.0
+        },
+        "Name": "AA Marble Stone Block"
+    },
+    "AA Medium Thick Wood Pillar": {
+        "ClassName": "Structure_AA_M_Pillar_ThickWood_C",
+        "Icon": "T_AA_M_Pillar_ThickWood_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 120.0,
+            "Wood": 80.0
+        },
+        "Name": "AA Medium Thick Wood Pillar"
+    },
+    "AA Mortar & Pestle": {
+        "ClassName": "Structure_AA_MortarAndPestle_Small_C",
+        "Icon": "T_AA_MortarAndPestle_Icon",
+        "Ingredients": {
+            "Hide": 15.0,
+            "Stone": 65.0
+        },
+        "Name": "AA Mortar & Pestle"
+    },
+    "AA OLD Glass": {
+        "ClassName": "Resource_AA_Glass_C",
+        "Icon": "T_AA_Glass_Icon",
+        "Ingredients": {
+            "AA OLD Silica": 5.0
+        },
+        "Name": "AA OLD Glass"
+    },
+    "AA OLD Silica": {
+        "ClassName": "Resource_AA_Silica_C",
+        "Icon": "T_Item_AA_Silica_Icon",
+        "Ingredients": {
+            "Quartz": 5.0
+        },
+        "Name": "AA OLD Silica"
+    },
+    "AA Oil Lamp": {
+        "ClassName": "Structure_AA_OilLamp_C",
+        "Icon": "T_Item_AA_OilLamp_Icon",
+        "Ingredients": {
+            "Alloy": 5.0,
+            "Flint": 10.0,
+            "Oil": 40.0
+        },
+        "Name": "AA Oil Lamp"
+    },
+    "AA Olive Oil": {
+        "ClassName": "Resource_AA_OliveOil_C",
+        "Icon": "T_Item_AA_OliveOil_Icon",
+        "Ingredients": {
+            "Olives": 10.0
+        },
+        "Name": "AA Olive Oil"
+    },
+    "AA Pearl Glass": {
+        "ClassName": "Resource_AA_Glass_Pearl_C",
+        "Icon": "T_AA_Glass_Pearl_Icon",
+        "Ingredients": {
+            "AA Pearl Silica": 5.0
+        },
+        "Name": "AA Pearl Glass"
+    },
+    "AA Pearl Silica": {
+        "ClassName": "Resource_AA_Silica_Pearl_C",
+        "Icon": "T_AA_Silica_Pearl_Icon",
+        "Ingredients": {
+            "Pearl": 5.0
+        },
+        "Name": "AA Pearl Silica"
+    },
+    "AA Pillar": {
+        "ClassName": "BASE_PrimalStructure_AA_Pillar_C",
+        "Name": "AA Pillar"
+    },
+    "AA Pillar (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Pillar_Deprecated_C",
+        "Name": "AA Pillar (deprecated)"
+    },
+    "AA Pillar Base": {
+        "ClassName": "Structure_AA_Pillar_Base_C",
+        "Name": "AA Pillar Base"
+    },
+    "AA Planter Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Planter_Metal_C",
+        "Icon": "T_AA_Decor_Planter_Icon",
+        "Ingredients": {
+            "Alloy": 32.0,
+            "Fibers": 24.0,
+            "Thatch": 24.0,
+            "Wood": 12.0
+        },
+        "Name": "AA Planter Decor"
+    },
+    "AA Prop Bottle": {
+        "ClassName": "Structure_AA_Prop_Bottle_C",
+        "Icon": "T_Item_AA_Prop_Bottle_Icon",
+        "Ingredients": {
+            "AA Glass": 1.0
+        },
+        "Name": "AA Prop Bottle"
+    },
+    "AA Prop Bottle Rack": {
+        "ClassName": "Structure_AA_Prop_BottleRack_C",
+        "Icon": "T_Item_AA_Prop_BottleRack_Icon",
+        "Ingredients": {
+            "AA Prop Bottle": 13.0,
+            "Metal": 50.0,
+            "Thatch": 400.0,
+            "Wood": 400.0
+        },
+        "Name": "AA Prop Bottle Rack"
+    },
+    "AA Prop Cage": {
+        "ClassName": "Structure_AA_Prop_Cage_C",
+        "Icon": "T_Item_AA_Prop_HumanCage_Icon",
+        "Ingredients": {
+            "Alloy": 100.0,
+            "Oil": 20.0
+        },
+        "Name": "AA Prop Cage"
+    },
+    "AA Prop Dinghy Table": {
+        "ClassName": "Structure_AA_Prop_Table_Dinghy_C",
+        "Icon": "T_Item_AA_Prop_Table_Dinghy_Icon",
+        "Ingredients": {
+            "Fibers": 1000.0,
+            "Metal": 200.0,
+            "Thatch": 1000.0,
+            "Wood": 1000.0
+        },
+        "Name": "AA Prop Dinghy Table"
+    },
+    "AA Prop Dock Cleat": {
+        "ClassName": "Structure_AA_Prop_DockCleat_C",
+        "Icon": "T_Item_AA_Prop_DockCleat_Icon",
+        "Ingredients": {
+            "Alloy": 100.0,
+            "Fibers": 500.0
+        },
+        "Name": "AA Prop Dock Cleat"
+    },
+    "AA Prop Sign": {
+        "ClassName": "Structure_AA_Prop_Sign_C",
+        "Icon": "T_Item_AA_Prop_Sign_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Metal": 20.0,
+            "Thatch": 10.0,
+            "Wood": 30.0
+        },
+        "Name": "AA Prop Sign"
+    },
+    "AA Quartz Glass": {
+        "ClassName": "Resource_AA_Glass_Quartz_C",
+        "Icon": "T_AA_Glass_Quartz_Icon",
+        "Ingredients": {
+            "AA Quartz Silica": 5.0
+        },
+        "Name": "AA Quartz Glass"
+    },
+    "AA Quartz Silica": {
+        "ClassName": "Resource_AA_Silica_Quartz_C",
+        "Icon": "T_AA_Silica_Quartz_Icon",
+        "Ingredients": {
+            "Quartz": 5.0
+        },
+        "Name": "AA Quartz Silica"
+    },
+    "AA Resource Chest": {
+        "ClassName": "PrimalStructure_AA_ResourceChest_C",
+        "Icon": "T_AA_ResourceChest_Icon",
+        "Ingredients": {
+            "Alloy": 64.0,
+            "Fibers": 48.0,
+            "Thatch": 64.0,
+            "Wood": 128.0
+        },
+        "Name": "AA Resource Chest"
+    },
+    "AA Roof (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Roof_Deprecated_C",
+        "Name": "AA Roof (deprecated)"
+    },
+    "AA Rug Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Rug_C",
+        "Icon": "T_AA_Decor_Rug_Icon",
+        "Ingredients": {
+            "Fibers": 240.0,
+            "Hide": 120.0
+        },
+        "Name": "AA Rug Decor"
+    },
+    "AA Sand": {
+        "ClassName": "Resource_AA_Sand_C",
+        "Icon": "T_AA_Sand_Icon",
+        "Ingredients": {
+            "Stone": 2.0
+        },
+        "Name": "AA Sand"
+    },
+    "AA Sandstone Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Sandstone_C",
+        "Icon": "T_AA_StoneBlock_Sandstone_Icon",
+        "Ingredients": {
+            "Sandstone": 20.0
+        },
+        "Name": "AA Sandstone Stone Block"
+    },
+    "AA Sign Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Sign_C",
+        "Icon": "T_Item_AA_Prop_Sign_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Metal": 20.0,
+            "Thatch": 10.0,
+            "Wood": 30.0
+        },
+        "Name": "AA Sign Decor"
+    },
+    "AA Silica": {
+        "ClassName": "Resource_AA_Silica_BASE_C",
+        "Icon": "T_Item_AA_Silica_Icon",
+        "Name": "AA Silica"
+    },
+    "AA Slab": {
+        "ClassName": "Structure_BASE_AA_Slab_C",
+        "Name": "AA Slab"
+    },
+    "AA Slab (deprecated)": {
+        "ClassName": "Structure_AA_Slab_Deprecated_C",
+        "Name": "AA Slab (deprecated)"
+    },
+    "AA Slate Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_Slate_C",
+        "Icon": "T_AA_StoneBlock_Slate_Icon",
+        "Ingredients": {
+            "Slate": 20.0
+        },
+        "Name": "AA Slate Stone Block"
+    },
+    "AA Small Forge": {
+        "ClassName": "Structure_AA_Forge_Small_OLD_C",
+        "Icon": "T_AA_S_Forge_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 5.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 125.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Small Forge"
+    },
+    "AA Small Loom": {
+        "ClassName": "Structure_AA_Loom_Small_OLD_C",
+        "Icon": "T_AA_S_Loom_Icon",
+        "Ingredients": {
+            "Fibers": 120.0,
+            "Keratinoid": 65.0,
+            "Metal": 20.0,
+            "Stone": 20.0,
+            "Wood": 98.0
+        },
+        "Name": "AA Small Loom"
+    },
+    "AA Small Mortar and Pestle": {
+        "ClassName": "Structure_AA_MortarAndPestle_Small_OLD_C",
+        "Icon": "T_AA_S_MortarAndPestle_Icon",
+        "Ingredients": {
+            "Hide": 15.0,
+            "Stone": 65.0
+        },
+        "Name": "AA Small Mortar and Pestle"
+    },
+    "AA Small Smithy": {
+        "ClassName": "Structure_AA_Smithy_Small_OLD_C",
+        "Icon": "T_AA_S_Smithy_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 5.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 125.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Small Smithy"
+    },
+    "AA Small Tannery": {
+        "ClassName": "Structure_AA_Tannery_Small_OLD_C",
+        "Icon": "T_AA_S_Tannery_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Hide": 35.0,
+            "Keratinoid": 40.0,
+            "Metal": 20.0,
+            "Wood": 120.0
+        },
+        "Name": "AA Small Tannery"
+    },
+    "AA Smithy": {
+        "ClassName": "Structure_AA_Smithy_Small_C",
+        "Icon": "T_AA_Smithy_Workbench_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 5.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 125.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Smithy"
+    },
+    "AA Softwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Softwood_C",
+        "Icon": "T_AA_Lumber_Soft_Icon",
+        "Ingredients": {
+            "Fir": 10.0
+        },
+        "Name": "AA Softwood Lumber"
+    },
+    "AA Stone Arch Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Arch_Stone_C",
+        "Icon": "T_AA_Prop_Stone_Arch_Icon",
+        "Ingredients": {
+            "AA Lumber": 12.0,
+            "AA Stone Block": 24.0,
+            "Fibers": 120.0,
+            "Thatch": 240.0
+        },
+        "Name": "AA Stone Arch Decor"
+    },
+    "AA Stone Block": {
+        "ClassName": "Resource_AA_StoneBlock_BASE_C",
+        "Icon": "T_AA_StoneBlock_BASE_Icon",
+        "Ingredients": {
+            "Stone": 20.0
+        },
+        "Name": "AA Stone Block"
+    },
+    "AA Stone Ceiling": {
+        "ClassName": "PrimalStructure_AA_Ceiling_Stone_C",
+        "Icon": "T_AA_Ceiling_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 40.0,
+            "Thatch": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Stone Ceiling"
+    },
+    "AA Stone Door": {
+        "ClassName": "PrimalStructure_AA_Door_Stone_C",
+        "Icon": "T_AA_Door_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 40.0,
+            "Thatch": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Stone Door"
+    },
+    "AA Stone Floor": {
+        "ClassName": "PrimalStructure_AA_Floor_Stone_C",
+        "Icon": "T_AA_Floor_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 40.0,
+            "Thatch": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Stone Floor"
+    },
+    "AA Stone Pillar": {
+        "ClassName": "PrimalStructure_AA_Pillar_Stone_C",
+        "Icon": "T_AA_Pillar_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 40.0,
+            "Thatch": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Stone Pillar"
+    },
+    "AA Stone Roof": {
+        "ClassName": "PrimalStructure_AA_Roof_Stone_C",
+        "Icon": "T_AA_Roof_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 30.0,
+            "Thatch": 30.0,
+            "Wood": 15.0
+        },
+        "Name": "AA Stone Roof"
+    },
+    "AA Stone Slab": {
+        "ClassName": "PrimalStructure_AA_Slab_Stone_C",
+        "Icon": "T_AA_Slab_Stone_Icon",
+        "Ingredients": {
+            "AA Lumber": 24.0,
+            "AA Stone Block": 32.0,
+            "Alloy": 24.0,
+            "Fibers": 240.0,
+            "Organic Paste": 128.0,
+            "Thatch": 480.0
+        },
+        "Name": "AA Stone Slab"
+    },
+    "AA Stone Wall": {
+        "ClassName": "PrimalStructure_AA_Wall_Stone_C",
+        "Icon": "T_AA_Wall_Stone_Icon",
+        "Ingredients": {
+            "Fibers": 15.0,
+            "Metal": 15.0,
+            "Stone": 35.0,
+            "Thatch": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "AA Stone Wall"
+    },
+    "AA Strongwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Strongwood_C",
+        "Icon": "T_AA_Lumber_Strong_Icon",
+        "Ingredients": {
+            "Oak": 10.0
+        },
+        "Name": "AA Strongwood Lumber"
+    },
+    "AA Structure": {
+        "ClassName": "StructureBase_AA_Prop_C",
+        "Name": "AA Structure"
+    },
+    "AA Tall Stone Slab": {
+        "ClassName": "PrimalStructure_AA_Slab_Stone_Tall_C",
+        "Icon": "T_AA_Slab_Stone_Tall_Icon",
+        "Ingredients": {
+            "AA Lumber": 48.0,
+            "AA Stone Block": 64.0,
+            "Alloy": 48.0,
+            "Fibers": 480.0,
+            "Organic Paste": 256.0,
+            "Thatch": 960.0
+        },
+        "Name": "AA Tall Stone Slab"
+    },
+    "AA Tall Thick Wood Pillar": {
+        "ClassName": "Structure_AA_T_Pillar_ThickWood_C",
+        "Icon": "T_AA_T_Pillar_ThickWood_Icon",
+        "Ingredients": {
+            "Fibers": 80.0,
+            "Thatch": 120.0,
+            "Wood": 320.0
+        },
+        "Name": "AA Tall Thick Wood Pillar"
+    },
+    "AA Tannery": {
+        "ClassName": "Structure_AA_Tannery_Small_C",
+        "Icon": "T_AA_Tannery_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Hide": 35.0,
+            "Keratinoid": 40.0,
+            "Metal": 20.0,
+            "Wood": 120.0
+        },
+        "Name": "AA Tannery"
+    },
+    "AA Tellurite Glass": {
+        "ClassName": "Resource_AA_Glass_Tellurite_C",
+        "Icon": "T_AA_Glass_Tellurite_Icon",
+        "Ingredients": {
+            "AA Tellurite Silica": 5.0
+        },
+        "Name": "AA Tellurite Glass"
+    },
+    "AA Tellurite Silica": {
+        "ClassName": "Resource_AA_Silica_Tellurite_C",
+        "Icon": "T_AA_Silica_Tellurite_Icon",
+        "Ingredients": {
+            "Tellurite": 5.0
+        },
+        "Name": "AA Tellurite Silica"
+    },
+    "AA Thick Wood Pillar": {
+        "ClassName": "Structure_AA_Pillar_ThickWood_C",
+        "Icon": "T_AA_Pillar_ThickWood_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 120.0,
+            "Wood": 80.0
+        },
+        "Name": "AA Thick Wood Pillar"
+    },
+    "AA Wall (deprecated)": {
+        "ClassName": "PrimalStructure_AA_Wall_Deprecated_C",
+        "Name": "AA Wall (deprecated)"
+    },
+    "AA Wax": {
+        "ClassName": "Resource_AA_Wax_C",
+        "Icon": "T_AA_Wax_Icon",
+        "Ingredients": {
+            "Saps": 10.0
+        },
+        "Name": "AA Wax"
+    },
+    "AA Wetwood Lumber": {
+        "ClassName": "Resource_AA_Lumber_Wetwood_C",
+        "Icon": "T_AA_Lumber_Wet_Icon",
+        "Ingredients": {
+            "Pine": 10.0
+        },
+        "Name": "AA Wetwood Lumber"
+    },
+    "AA Wood Arch Decor": {
+        "ClassName": "PrimalStructure_AA_Decor_Arch_Wood_C",
+        "Icon": "T_Item_AA_Arch_Wood_Icon",
+        "Ingredients": {
+            "AA Lumber": 12.0,
+            "Alloy": 25.0,
+            "Fibers": 64.0,
+            "Thatch": 128.0
+        },
+        "Name": "AA Wood Arch Decor"
+    },
+    "AA Wood Ceiling": {
+        "ClassName": "PrimalStructure_AA_Ceiling_Wood_C",
+        "Icon": "T_Item_AA_Ceiling_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Ceiling"
+    },
+    "AA Wood Door": {
+        "ClassName": "PrimalStructure_AA_Door_Wood_C",
+        "Icon": "T_Item_AA_Small_Door_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Door"
+    },
+    "AA Wood Floor": {
+        "ClassName": "PrimalStructure_AA_Floor_Wood_C",
+        "Icon": "T_Item_AA_Floor_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Floor"
+    },
+    "AA Wood Pillar": {
+        "ClassName": "Structure_AA_Pillar_Wood_OLD_C",
+        "Icon": "T_AA_Pillar_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Pillar"
+    },
+    "AA Wood Roof": {
+        "ClassName": "PrimalStructure_AA_Roof_Wood_C",
+        "Icon": "T_Item_AA_Roof_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Roof"
+    },
+    "AA Wood Wall": {
+        "ClassName": "PrimalStructure_AA_Wall_Wood_C",
+        "Icon": "T_Item_AA_Wall_Wood_Icon",
+        "Ingredients": {
+            "Fibers": 20.0,
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "AA Wood Wall"
+    },
+    "AO Admin Flag": {
+        "ClassName": "Structure_AO_AdminFlag_C",
+        "Icon": "T_AO_AdminFlag_Icon",
+        "Name": "AO Admin Flag"
+    },
+    "AO Billboard": {
+        "ClassName": "Structure_AO_Billboard_C",
+        "Icon": "T_AO_Billboard_Icon",
+        "Ingredients": {
+            "Fibers": 25.0,
+            "Thatch": 30.0,
+            "Wood": 40.0
+        },
+        "Name": "AO Billboard"
+    },
+    "AO Dragon": {
+        "ClassName": "AO_Draco_Character_C",
+        "Name": "AO Dragon"
+    },
+    "AO Merchant": {
+        "ClassName": "PrimalStructure_AO_Merchant_C",
+        "Icon": "T_AO_Merchant_Icon",
+        "Name": "AO Merchant"
+    },
+    "AO Resource Box": {
+        "ClassName": "Structure_AO_ResourceBox_C",
+        "Icon": "Item_CargoShipAttachment_Icon",
+        "Name": "AO Resource Box"
+    },
+    "AO Settlement Flag": {
+        "ClassName": "Structure_AO_SettlementFlag_C",
+        "Icon": "Item_FlagPole_Icon",
+        "Name": "AO Settlement Flag"
+    },
+    "AO Structure": {
+        "ClassName": "Structure_AO_Sign_Wood_C",
+        "Name": "AO Structure"
+    },
+    "AS Ammo Box": {
+        "ClassName": "Structure_AS_AmmoBox_C",
+        "Icon": "T_AS_AmmoBox_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Metal": 8.0,
+            "Thatch": 60.0,
+            "Wood": 120.0
+        },
+        "Name": "AS Ammo Box"
+    },
+    "AS BASE Ship": {
+        "ClassName": "Ship_AS_Schooner_BASE_C",
+        "Ingredients": {
+            "AS BASE Ship": 50.0,
+            "Fibers": 5.0,
+            "Metal": 5.0,
+            "Thatch": 5.0,
+            "Wood": 5.0
+        },
+        "Name": "AS BASE Ship"
+    },
+    "AS Brigantine (decommissioned)": {
+        "ClassName": "Ship_AS_Brigantine_C",
+        "Icon": "T_AS_Brigantine_Decommission_Icon",
+        "Ingredients": {
+            "Fibers": 1512.0,
+            "Metal": 224.0,
+            "Thatch": 3024.0,
+            "Wood": 1960.0
+        },
+        "Name": "AS Brigantine (decommissioned)"
+    },
+    "AS Brigantine II": {
+        "ClassName": "Ship_AS_Brigantine2_C",
+        "Icon": "T_AS_Brigantine_Icon",
+        "Ingredients": {
+            "Fibers": 1500.0,
+            "Metal": 200.0,
+            "Thatch": 3000.0,
+            "Wood": 2000.0
+        },
+        "Name": "AS Brigantine II"
+    },
+    "AS Brigantine L": {
+        "ClassName": "Ship_AS_BrigantineL_C",
+        "Icon": "T_AS_BrigantineL_Icon",
+        "Ingredients": {
+            "Fibers": 2000.0,
+            "Metal": 300.0,
+            "Organic Paste": 450.0,
+            "Thatch": 3500.0,
+            "Wood": 2500.0
+        },
+        "Name": "AS Brigantine L"
+    },
+    "AS Brigantine L II": {
+        "ClassName": "Ship_AS_BrigantineL2_C",
+        "Icon": "T_AS_BrigantineL_Icon",
+        "Ingredients": {
+            "Fibers": 2000.0,
+            "Metal": 300.0,
+            "Organic Paste": 450.0,
+            "Thatch": 3500.0,
+            "Wood": 2500.0
+        },
+        "Name": "AS Brigantine L II"
+    },
+    "AS Brigantine T": {
+        "ClassName": "Ship_AS_BrigantineT_C",
+        "Icon": "T_AS_BrigantineT_Icon",
+        "Ingredients": {
+            "Fibers": 3000.0,
+            "Metal": 400.0,
+            "Organic Paste": 300.0,
+            "Thatch": 6000.0,
+            "Wood": 4000.0
+        },
+        "Name": "AS Brigantine T"
+    },
+    "AS Brigantine W": {
+        "ClassName": "Ship_AS_BrigantineW_C",
+        "Icon": "T_AS_BrigantineW_Icon",
+        "Ingredients": {
+            "Alloy": 500.0,
+            "Fibers": 2000.0,
+            "Organic Paste": 600.0,
+            "Thatch": 4000.0,
+            "Wood": 3000.0
+        },
+        "Name": "AS Brigantine W"
+    },
+    "AS Cheatbox": {
+        "ClassName": "Structure_AS_Cheatbox_C",
+        "Icon": "Item_CargoShipAttachment_Icon",
+        "Name": "AS Cheatbox"
+    },
+    "AS Converter": {
+        "ClassName": "Structure_AS_Converter_C",
+        "Icon": "T_AS_Converter_Icon",
+        "Ingredients": {
+            "Fibers": 200.0,
+            "Flint": 5.0,
+            "Hide": 100.0,
+            "Metal": 50.0,
+            "Stone": 100.0,
+            "Wood": 500.0
+        },
+        "Name": "AS Converter"
+    },
+    "AS Deck BASE": {
+        "ClassName": "Ship_AS_Deck_BASE_C",
+        "Ingredients": {
+            "Wood": 1.0
+        },
+        "Name": "AS Deck BASE"
+    },
+    "AS Dragon Figurehead": {
+        "ClassName": "Structure_AS_FigureHead_Dragon_C",
+        "Icon": "Item_FigureHeadDragon_Icon",
+        "Ingredients": {
+            "Alloy": 256.0,
+            "Fibers": 64.0,
+            "Thatch": 64.0,
+            "Wood": 128.0
+        },
+        "Name": "AS Dragon Figurehead"
+    },
+    "AS Figure Head BASE": {
+        "ClassName": "Structure_AS_FigureHead_BASE_C",
+        "Icon": "BoneTrikeCostume_Icon",
+        "Name": "AS Figure Head BASE"
+    },
+    "AS Galleon (decommissioned)": {
+        "ClassName": "Ship_AS_Galleon_C",
+        "Icon": "T_AS_Galleon_Decommission_Icon",
+        "Ingredients": {
+            "Fibers": 2560.0,
+            "Metal": 680.0,
+            "Thatch": 5600.0,
+            "Wood": 4200.0
+        },
+        "Name": "AS Galleon (decommissioned)"
+    },
+    "AS Galleon II": {
+        "ClassName": "Ship_AS_Galleon2_C",
+        "Icon": "T_AS_Galleon_Icon",
+        "Ingredients": {
+            "Fibers": 2500.0,
+            "Metal": 700.0,
+            "Thatch": 6000.0,
+            "Wood": 4000.0
+        },
+        "Name": "AS Galleon II"
+    },
+    "AS Galleon L": {
+        "ClassName": "Ship_AS_GalleonL_C",
+        "Icon": "T_AS_GalleonL_Icon",
+        "Ingredients": {
+            "Fibers": 4000.0,
+            "Metal": 1000.0,
+            "Organic Paste": 750.0,
+            "Thatch": 7000.0,
+            "Wood": 5000.0
+        },
+        "Name": "AS Galleon L"
+    },
+    "AS Galleon L II": {
+        "ClassName": "Ship_AS_GalleonL2_C",
+        "Icon": "T_AS_GalleonL_Icon",
+        "Ingredients": {
+            "Fibers": 4000.0,
+            "Metal": 1000.0,
+            "Organic Paste": 750.0,
+            "Thatch": 7000.0,
+            "Wood": 5000.0
+        },
+        "Name": "AS Galleon L II"
+    },
+    "AS Galleon T": {
+        "ClassName": "Ship_AS_GalleonT_C",
+        "Icon": "T_AS_GalleonT_Icon",
+        "Ingredients": {
+            "Fibers": 5000.0,
+            "Metal": 1400.0,
+            "Organic Paste": 500.0,
+            "Thatch": 12000.0,
+            "Wood": 8000.0
+        },
+        "Name": "AS Galleon T"
+    },
+    "AS Galleon W": {
+        "ClassName": "Ship_AS_GalleonW_C",
+        "Icon": "T_AS_GalleonW_Icon",
+        "Ingredients": {
+            "Alloy": 1000.0,
+            "Fibers": 4000.0,
+            "Organic Paste": 1000.0,
+            "Thatch": 8000.0,
+            "Wood": 6000.0
+        },
+        "Name": "AS Galleon W"
+    },
+    "AS Gunport BASE": {
+        "ClassName": "Ship_AS_Windowport_Wood_BASE_C",
+        "Icon": "Item_GunPort_Icon",
+        "Ingredients": {
+            "Wood": 1.0
+        },
+        "Name": "AS Gunport BASE"
+    },
+    "AS Large Deck": {
+        "ClassName": "Ship_AS_Deck_Wood_Large_C",
+        "Icon": "T_AS_Deck_Wood_Large_Icon",
+        "Ingredients": {
+            "Fibers": 400.0,
+            "Thatch": 650.0,
+            "Wood": 860.0
+        },
+        "Name": "AS Large Deck"
+    },
+    "AS Large Gunport": {
+        "ClassName": "Ship_AS_Gunport_Wood_Large_C",
+        "Icon": "T_AS_Gunport_Wood_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1540.0,
+            "Metal": 24.0,
+            "Thatch": 1320.0,
+            "Wood": 1540.0
+        },
+        "Name": "AS Large Gunport"
+    },
+    "AS Large Handling Sail": {
+        "ClassName": "Structure_AS_Sail_Handling_Large_C",
+        "Icon": "T_AS_Sail_Handling_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1080.0,
+            "Hide": 200.0,
+            "Metal": 80.0,
+            "Wood": 512.0
+        },
+        "Name": "AS Large Handling Sail"
+    },
+    "AS Large Plank": {
+        "ClassName": "Ship_AS_Plank_Wood_Large_C",
+        "Icon": "T_AS_Plank_Wood_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1540.0,
+            "Metal": 24.0,
+            "Thatch": 1320.0,
+            "Wood": 1540.0
+        },
+        "Name": "AS Large Plank"
+    },
+    "AS Large Shipyard": {
+        "ClassName": "Structure_AS_Shipyard_Large_C",
+        "Icon": "T_AS_Shipyard_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1000.0,
+            "Stone": 500.0,
+            "Thatch": 2000.0,
+            "Wood": 4000.0
+        },
+        "Name": "AS Large Shipyard"
+    },
+    "AS Large Speed Sail": {
+        "ClassName": "Structure_AS_Sail_Speed_Large_C",
+        "Icon": "T_AS_Sail_Speed_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1080.0,
+            "Hide": 200.0,
+            "Metal": 80.0,
+            "Wood": 512.0
+        },
+        "Name": "AS Large Speed Sail"
+    },
+    "AS Large Weight Sail": {
+        "ClassName": "Structure_AS_Sail_Weight_Large_C",
+        "Icon": "T_AS_Sail_Weight_Large_Icon",
+        "Ingredients": {
+            "Fibers": 1080.0,
+            "Hide": 200.0,
+            "Metal": 80.0,
+            "Wood": 512.0
+        },
+        "Name": "AS Large Weight Sail"
+    },
+    "AS Large Windowport": {
+        "ClassName": "Ship_AS_Windowport_Wood_Large_C",
+        "Icon": "T_AS_Windowport_Wood_Large_Icon",
+        "Ingredients": {
+            "AA Glass": 20.0,
+            "Fibers": 1500.0,
+            "Metal": 25.0,
+            "Thatch": 1300.0,
+            "Wood": 1500.0
+        },
+        "Name": "AS Large Windowport"
+    },
+    "AS Medium Deck": {
+        "ClassName": "Ship_AS_Deck_Wood_Medium_C",
+        "Icon": "T_AS_Deck_Wood_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 94.0,
+            "Thatch": 176.0,
+            "Wood": 246.0
+        },
+        "Name": "AS Medium Deck"
+    },
+    "AS Medium Gunport": {
+        "ClassName": "Ship_AS_Gunport_Wood_Medium_C",
+        "Icon": "T_AS_Gunport_Wood_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 408.0,
+            "Metal": 6.0,
+            "Thatch": 360.0,
+            "Wood": 432.0
+        },
+        "Name": "AS Medium Gunport"
+    },
+    "AS Medium Handling Sail": {
+        "ClassName": "Structure_AS_Sail_Handling_Medium_C",
+        "Icon": "T_AS_Sail_Handling_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 432.0,
+            "Hide": 62.0,
+            "Metal": 28.0,
+            "Wood": 196.0
+        },
+        "Name": "AS Medium Handling Sail"
+    },
+    "AS Medium Plank": {
+        "ClassName": "Ship_AS_Plank_Wood_Medium_C",
+        "Icon": "T_AS_Plank_Wood_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 408.0,
+            "Metal": 6.0,
+            "Thatch": 360.0,
+            "Wood": 432.0
+        },
+        "Name": "AS Medium Plank"
+    },
+    "AS Medium Speed Sail": {
+        "ClassName": "Structure_AS_Sail_Speed_Medium_C",
+        "Icon": "T_AS_Sail_Speed_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 432.0,
+            "Hide": 62.0,
+            "Metal": 28.0,
+            "Wood": 196.0
+        },
+        "Name": "AS Medium Speed Sail"
+    },
+    "AS Medium Weight Sail": {
+        "ClassName": "Structure_AS_Sail_Weight_Medium_C",
+        "Icon": "T_AS_Sail_Weight_Medium_Icon",
+        "Ingredients": {
+            "Fibers": 432.0,
+            "Hide": 62.0,
+            "Metal": 28.0,
+            "Wood": 196.0
+        },
+        "Name": "AS Medium Weight Sail"
+    },
+    "AS Medium Windowport": {
+        "ClassName": "Ship_AS_Windowport_Wood_Medium_C",
+        "Icon": "T_AS_Windowport_Wood_Medium_Icon",
+        "Ingredients": {
+            "AA Glass": 10.0,
+            "Fibers": 400.0,
+            "Metal": 5.0,
+            "Thatch": 350.0,
+            "Wood": 400.0
+        },
+        "Name": "AS Medium Windowport"
+    },
+    "AS Plank BASE": {
+        "ClassName": "Ship_AS_Plank_BASE_C",
+        "Icon": "Item_Plank_Icon",
+        "Ingredients": {
+            "Wood": 1.0
+        },
+        "Name": "AS Plank BASE"
+    },
+    "AS Podium": {
+        "ClassName": "Structure_AS_Podium_C",
+        "Icon": "T_AS_Podium_Icon",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Thatch": 18.0,
+            "Wood": 30.0
+        },
+        "Name": "AS Podium"
+    },
+    "AS Resource Box": {
+        "ClassName": "Structure_AS_ResourceBox_C",
+        "Icon": "T_AS_ResourceBox_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Metal": 12.0,
+            "Thatch": 50.0,
+            "Wood": 100.0
+        },
+        "Name": "AS Resource Box"
+    },
+    "AS Sail BASE": {
+        "ClassName": "Structure_AS_Sail_BASE_C",
+        "Ingredients": {
+            "Fibers": 5.0,
+            "Hide": 5.0,
+            "Metal": 5.0,
+            "Wood": 5.0
+        },
+        "Name": "AS Sail BASE"
+    },
+    "AS Schooner (Decommissioned)": {
+        "ClassName": "Ship_AS_Schooner_C",
+        "Icon": "T_AS_Schooner_Decommission_Icon",
+        "Ingredients": {
+            "Fibers": 300.0,
+            "Metal": 40.0,
+            "Thatch": 500.0,
+            "Wood": 400.0
+        },
+        "Name": "AS Schooner (Decommissioned)"
+    },
+    "AS Schooner E": {
+        "ClassName": "Ship_AS_SchoonerE_C",
+        "Icon": "T_AS_SchoonerE_Icon",
+        "Ingredients": {
+            "Fibers": 400.0,
+            "Metal": 50.0,
+            "Organic Paste": 50.0,
+            "Thatch": 600.0,
+            "Wood": 500.0
+        },
+        "Name": "AS Schooner E"
+    },
+    "AS Schooner II": {
+        "ClassName": "Ship_AS_Schooner2_C",
+        "Icon": "T_AS_Schooner_Icon",
+        "Ingredients": {
+            "Fibers": 300.0,
+            "Metal": 40.0,
+            "Thatch": 500.0,
+            "Wood": 400.0
+        },
+        "Name": "AS Schooner II"
+    },
+    "AS Schooner Kit": {
+        "ClassName": "Structure_AS_Kit_Schooner_C",
+        "Icon": "SmallStorage_Icon",
+        "Name": "AS Schooner Kit"
+    },
+    "AS Schooner T": {
+        "ClassName": "Ship_AS_SchoonerT_C",
+        "Icon": "T_AS_SchoonerT_Icon",
+        "Ingredients": {
+            "Fibers": 600.0,
+            "Metal": 100.0,
+            "Organic Paste": 100.0,
+            "Thatch": 1200.0,
+            "Wood": 800.0
+        },
+        "Name": "AS Schooner T"
+    },
+    "AS Schooner W": {
+        "ClassName": "Ship_AS_SchoonerW_C",
+        "Icon": "T_AS_SchoonerW_Icon",
+        "Ingredients": {
+            "Alloy": 100.0,
+            "Fibers": 500.0,
+            "Organic Paste": 200.0,
+            "Thatch": 700.0,
+            "Wood": 600.0
+        },
+        "Name": "AS Schooner W"
+    },
+    "AS Schooner W (cheat)": {
+        "ClassName": "Ship_AS_SchoonerW_Cheat_C",
+        "Icon": "T_AS_SchoonerW_Icon",
+        "Ingredients": {
+            "Wood": 1.0
+        },
+        "Name": "AS Schooner W (cheat)"
+    },
+    "AS Sloop": {
+        "ClassName": "Ship_AS_Sloop_C",
+        "Icon": "T_AS_Sloop_Icon",
+        "Ingredients": {
+            "Fibers": 100.0,
+            "Metal": 10.0,
+            "Thatch": 200.0,
+            "Wood": 150.0
+        },
+        "Name": "AS Sloop"
+    },
+    "AS Sloop E": {
+        "ClassName": "Ship_AS_SloopE_C",
+        "Icon": "T_AS_SloopE_Icon",
+        "Ingredients": {
+            "Fibers": 200.0,
+            "Metal": 20.0,
+            "Organic Paste": 25.0,
+            "Thatch": 300.0,
+            "Wood": 200.0
+        },
+        "Name": "AS Sloop E"
+    },
+    "AS Small Deck": {
+        "ClassName": "Ship_AS_Deck_Wood_Small_C",
+        "Icon": "T_AS_Deck_Wood_Small_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 105.0,
+            "Wood": 70.0
+        },
+        "Name": "AS Small Deck"
+    },
+    "AS Small Handling Sail": {
+        "ClassName": "Structure_AS_Sail_Handling_Small_C",
+        "Icon": "T_AS_Sail_Handling_Small_Icon",
+        "Ingredients": {
+            "Fibers": 115.0,
+            "Hide": 28.0,
+            "Wood": 84.0
+        },
+        "Name": "AS Small Handling Sail"
+    },
+    "AS Small Plank": {
+        "ClassName": "Ship_AS_Plank_Wood_Small_C",
+        "Icon": "T_AS_Plank_Wood_Small_Icon",
+        "Ingredients": {
+            "Fibers": 50.0,
+            "Thatch": 60.0,
+            "Wood": 65.0
+        },
+        "Name": "AS Small Plank"
+    },
+    "AS Small Shipyard": {
+        "ClassName": "Structure_AS_Shipyard_Small_C",
+        "Icon": "T_AS_Shipyard_Small_Icon",
+        "Ingredients": {
+            "Fibers": 240.0,
+            "Stone": 105.0,
+            "Thatch": 420.0,
+            "Wood": 840.0
+        },
+        "Name": "AS Small Shipyard"
+    },
+    "AS Small Speed Sail": {
+        "ClassName": "Structure_AS_Sail_Speed_Small_C",
+        "Icon": "T_AS_Sail_Speed_Small_Icon",
+        "Ingredients": {
+            "Fibers": 115.0,
+            "Hide": 28.0,
+            "Wood": 84.0
+        },
+        "Name": "AS Small Speed Sail"
+    },
+    "AS Small Weight Sail": {
+        "ClassName": "Structure_AS_Sail_Weight_Small_C",
+        "Icon": "T_AS_Sail_Weight_Small_Icon",
+        "Ingredients": {
+            "Fibers": 115.0,
+            "Hide": 28.0,
+            "Wood": 84.0
+        },
+        "Name": "AS Small Weight Sail"
+    },
+    "AS Steering Wheel": {
+        "ClassName": "Structure_AS_Wheel_C",
+        "Icon": "T_AS_Wheel_Icon",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Thatch": 18.0,
+            "Wood": 40.0
+        },
+        "Name": "AS Steering Wheel"
+    },
+    "AS Structure Base": {
+        "ClassName": "Structure_AS_Container_BASE_C",
+        "Name": "AS Structure Base"
+    },
+    "AS Wood Deck BASE": {
+        "ClassName": "Ship_AS_Deck_Wood_BASE_C",
+        "Ingredients": {
+            "Fibers": 5.0,
+            "Thatch": 5.0,
+            "Wood": 5.0
+        },
+        "Name": "AS Wood Deck BASE"
+    },
+    "AS Wood Gunport BASE": {
+        "ClassName": "Ship_AS_Gunport_Wood_BASE_C",
+        "Icon": "Item_GunPort_Icon",
+        "Ingredients": {
+            "Fibers": 5.0,
+            "Metal": 5.0,
+            "Thatch": 5.0,
+            "Wood": 5.0
+        },
+        "Name": "AS Wood Gunport BASE"
+    },
+    "AS Wood Plank BASE": {
+        "ClassName": "Ship_AS_Plank_Wood_BASE_C",
+        "Icon": "Item_Plank_Icon",
+        "Ingredients": {
+            "Fibers": 5.0,
+            "Metal": 5.0,
+            "Thatch": 5.0,
+            "Wood": 5.0
+        },
+        "Name": "AS Wood Plank BASE"
     },
     "Aberrant Helmet Skin": {
         "ClassName": "Skin_Shoppable_C",
@@ -77,6 +1926,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Acai Seed": {
+        "ClassName": "Consumable_Berry_Acai_Seed_C",
+        "Icon": "AcaiSeed_Icon",
+        "Ingredients": {
+            "Acai": 1.0
+        },
+        "Name": "Acai Seed"
     },
     "Accordian: A Mockatoo Once Told Me": {
         "ClassName": "Ammo_Song_A_Normal_C",
@@ -123,6 +1980,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Acerolla Seed": {
+        "ClassName": "Consumable_Berry_Acerolla_Seed_C",
+        "Icon": "AcerollaSeed_Icon",
+        "Ingredients": {
+            "Acerola": 1.0
+        },
+        "Name": "Acerolla Seed"
     },
     "Advanced Shipyard": {
         "ClassName": "Structure_Shipyard_Advanced_C",
@@ -212,6 +2077,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Aloe Cutting": {
+        "ClassName": "Consumable_MedHerb_Aloe_Cutting_C",
+        "Icon": "AloeCutting_Icon",
+        "Ingredients": {
+            "Aloe": 1.0
+        },
+        "Name": "Aloe Cutting"
     },
     "Altar of the Damned": {
         "ClassName": "Structure_DamnedAltar_C",
@@ -367,6 +2240,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Arctic Raspberry Seed": {
+        "ClassName": "Consumable_Berry_ArcticRaspberry_Seed_C",
+        "Icon": "ArcticRaspberrySeed_Icon",
+        "Ingredients": {
+            "Arctic Raspberry": 1.0
+        },
+        "Name": "Arctic Raspberry Seed"
     },
     "Argentavis Egg": {
         "ClassName": "Consumable_Egg_Argent_C",
@@ -712,9 +2593,20 @@
             }
         }
     },
+    "Basil Cutting": {
+        "ClassName": "Consumable_MedHerb_Basil_Cutting_C",
+        "Icon": "BasilCutting_Icon",
+        "Ingredients": {
+            "Basil": 1.0
+        },
+        "Name": "Basil Cutting"
+    },
     "Bean Seed": {
-        "ClassName": "Consumable_Vegetable_Beans_Seed_C",
+        "ClassName": "Consumable_Vegetable_Beans_Seed_MC_C",
         "Icon": "Beans_Seed_Icon",
+        "Ingredients": {
+            "Beans": 1.0
+        },
         "Name": "Bean Seed"
     },
     "Beans": {
@@ -744,9 +2636,11 @@
     },
     "Bee Hive": {
         "ClassName": "Structure_BeeHive_C",
+        "Icon": "Beehive_Icon",
         "Ingredients": {
             "Cementing Paste": 1.0,
             "Flint": 1.0,
+            "Honey": 1.0,
             "Metal Ingot": 1.0,
             "Stone": 1.0,
             "Thatch": 4.0,
@@ -814,8 +2708,11 @@
         }
     },
     "Beet Seed": {
-        "ClassName": "Consumable_Vegetable_Beet_Seed_C",
+        "ClassName": "Consumable_Vegetable_Beet_Seed_MC_C",
         "Icon": "Beet_Seed_Icon",
+        "Ingredients": {
+            "Beet": 1.0
+        },
         "Name": "Beet Seed"
     },
     "Berry": {
@@ -895,6 +2792,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Bilberry Seed": {
+        "ClassName": "Consumable_Berrt_Bilberry_Seed_C",
+        "Icon": "BilberrySeed_Icon",
+        "Ingredients": {
+            "Bilberry": 1.0
+        },
+        "Name": "Bilberry Seed"
     },
     "Bingleberry": {
         "ClassName": "Consumable_Berry_ARKBase_C",
@@ -979,6 +2884,14 @@
             "Water": 1.0
         },
         "Name": "Blackberry Coloring"
+    },
+    "Blackberry Seed": {
+        "ClassName": "Consumable_Berry_Blackberry_Seed_C",
+        "Icon": "BlackberrySeed_Icon",
+        "Ingredients": {
+            "Blackberry": 1.0
+        },
+        "Name": "Blackberry Seed"
     },
     "Blackcurrant Coloring": {
         "ClassName": "Dye_Blackcurrant_C",
@@ -1295,16 +3208,6 @@
         },
         "Name": "Burial Mound Framework"
     },
-    "CG Super Spyglass": {
-        "ClassName": "Weapon_CG_SuperSpyglass_C",
-        "Icon": "CG_SuperSpyglass_Icon",
-        "Ingredients": {
-            "Alloy": 1.0,
-            "Crystal": 5.0,
-            "Hide": 5.0
-        },
-        "Name": "CG Super Spyglass"
-    },
     "CIS Delivery Package": {
         "ClassName": "CIS_DeliveryPackage_C",
         "Name": "CIS Delivery Package"
@@ -1330,8 +3233,11 @@
         }
     },
     "Cactus Seed": {
-        "ClassName": "Consumable_Vegetable_Cactus_Seed_C",
+        "ClassName": "Consumable_Vegetable_Cactus_Seed_MC_C",
         "Icon": "Cactus_Seed_Icon",
+        "Ingredients": {
+            "Cactus": 1.0
+        },
         "Name": "Cactus Seed"
     },
     "Calcite": {
@@ -1402,6 +3308,14 @@
         },
         "Name": "Cannon Ship Railing (Kraken)"
     },
+    "Cannon Skin": {
+        "ClassName": "CannonSkin_Base_C",
+        "Icon": "Item_CannonSkin_Base_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Cannon Skin"
+    },
     "Cantaloupe Coloring": {
         "ClassName": "Dye_Cantaloupe_C",
         "Ingredients": {
@@ -1446,25 +3360,6 @@
         "ClassName": "Resource_Keratanoid_Carapace_C",
         "Icon": "Carapace_Icon",
         "Name": "Carapace"
-    },
-    "Caravela": {
-        "ClassName": "Ship_Caravela_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Fibers": 232.0,
-            "Metal": 52.0,
-            "Thatch": 390.0,
-            "Wood": 270.0
-        },
-        "Name": "Caravela"
-    },
-    "Caravela (Cheat)": {
-        "ClassName": "Ship_Caravela_Cheat_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Wood": 1.0
-        },
-        "Name": "Caravela (Cheat)"
     },
     "Carbine": {
         "ClassName": "WeaponYarkSniperRifle_C",
@@ -1554,8 +3449,11 @@
         }
     },
     "Carrot Seed": {
-        "ClassName": "Consumable_Vegetable_Carrot_Seed_C",
+        "ClassName": "Consumable_Vegetable_Carrot_Seed_MC_C",
         "Icon": "Carrot_Seed_Icon",
+        "Ingredients": {
+            "Carrot": 1.0
+        },
         "Name": "Carrot Seed"
     },
     "Catapult Ship Railing": {
@@ -1645,6 +3543,14 @@
             }
         }
     },
+    "Celery Seed": {
+        "ClassName": "Consumable_Vegetable_Celery_Seed_C",
+        "Icon": "CelerySeed_Icon",
+        "Ingredients": {
+            "Celery": 1.0
+        },
+        "Name": "Celery Seed"
+    },
     "Celery Soup": {
         "ClassName": "Consumable_CelerySoup_C",
         "Icon": "Item_CelerySoup_Icon",
@@ -1702,17 +3608,6 @@
         },
         "Name": "Chalcedony"
     },
-    "Chalupa": {
-        "ClassName": "Ship_Chalupa_C",
-        "Icon": "ChalupaIcon4",
-        "Ingredients": {
-            "Fibers": 110.0,
-            "Metal": 8.0,
-            "Thatch": 180.0,
-            "Wood": 120.0
-        },
-        "Name": "Chalupa"
-    },
     "Chamomile": {
         "ClassName": "Consumable_MedHerb_Chamomile_C",
         "Icon": "Chamomile_Icon",
@@ -1732,6 +3627,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Chamomile Seed": {
+        "ClassName": "Consumable_MedHerb_Chamomile_Seed_C",
+        "Icon": "ChamomileSeed_Icon",
+        "Ingredients": {
+            "Chamomile": 1.0
+        },
+        "Name": "Chamomile Seed"
     },
     "Charcoal": {
         "ClassName": "Resource_Charcoal_C",
@@ -1759,8 +3662,11 @@
         "Name": "Chert"
     },
     "Chick Pea Seed": {
-        "ClassName": "Consumable_Vegetable_ChickPeas_Seed_C",
+        "ClassName": "Consumable_Vegetable_ChickPeas_Seed_MC_C",
         "Icon": "Chickpeas_Seed_Icon",
+        "Ingredients": {
+            "Chick Peas": 1.0
+        },
         "Name": "Chick Pea Seed"
     },
     "Chick Peas": {
@@ -1824,8 +3730,11 @@
         }
     },
     "Chili Seed": {
-        "ClassName": "Consumable_Vegetable_Chilli_Seed_C",
+        "ClassName": "Consumable_Vegetable_Chilli_Seed_MC_C",
         "Icon": "Chili_Seed_Icon",
+        "Ingredients": {
+            "Chili": 1.0
+        },
         "Name": "Chili Seed"
     },
     "Chitin": {
@@ -1867,6 +3776,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Cilantro Cutting": {
+        "ClassName": "Consumable_Herb_Cilantro_Cutting_C",
+        "Icon": "CilantroCutting_Icon",
+        "Ingredients": {
+            "Cilantro": 1.0
+        },
+        "Name": "Cilantro Cutting"
     },
     "Citronal": {
         "ClassName": "Consumable_Veggie_Citronal_C",
@@ -2097,6 +4014,26 @@
         },
         "Name": "Cobalt Ingot"
     },
+    "Cobra Egg": {
+        "ClassName": "Consumable_Egg_Cobra_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Cobra Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Cocoa": {
         "ClassName": "Consumable_Vegetable_Cocoa_C",
         "Icon": "Cocoa_Icon",
@@ -2117,6 +4054,14 @@
             }
         }
     },
+    "Cocoa Bean": {
+        "ClassName": "Consumable_Vegetable_Cocoa_Bean_C",
+        "Icon": "CocoaBean_Icon",
+        "Ingredients": {
+            "Cocoa": 1.0
+        },
+        "Name": "Cocoa Bean"
+    },
     "Coconut": {
         "ClassName": "Consumable_Vegetable_Coconut_C",
         "Icon": "Coconut_Icon",
@@ -2136,6 +4081,14 @@
                 "addOverTimeSpeed": 1.7376100957627732e-43
             }
         }
+    },
+    "Coconut Seed": {
+        "ClassName": "Consumable_Vegetable_Coconut_Seed_C",
+        "Icon": "CoconutSeed_Icon",
+        "Ingredients": {
+            "Coconut": 1.0
+        },
+        "Name": "Coconut Seed"
     },
     "Coffee": {
         "ClassName": "Consumable_Coffee_C",
@@ -2190,8 +4143,11 @@
         }
     },
     "Coffee Seed": {
-        "ClassName": "Consumable_Vegetable_Coffee_Seed_C",
+        "ClassName": "Consumable_Vegetable_Coffee_Seed_MC_C",
         "Icon": "CoffeeSeed",
+        "Ingredients": {
+            "Coffee Bean": 1.0
+        },
         "Name": "Coffee Seed"
     },
     "Cog": {
@@ -2392,6 +4348,26 @@
         },
         "Name": "Cotton"
     },
+    "Crab Egg": {
+        "ClassName": "Consumable_Egg_Crab_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Crab Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Crab Platform Saddle": {
         "ClassName": "Armor_CrabSaddle_Platform_C",
         "Icon": "Crab_Platform_Saddle_Icon",
@@ -2416,7 +4392,7 @@
         "ClassName": "Consumable_CremeBrulee_C",
         "Icon": "Item_Cremebrulee_Icon",
         "Ingredients": {
-            "Egg!": 5.0,
+            "Egg": 5.0,
             "Elderberry": 3.0,
             "Milk": 1.0,
             "Salt": 1.0,
@@ -2454,6 +4430,26 @@
             "Wood": 420.0
         },
         "Name": "Crew Resources Silo"
+    },
+    "Crocodile Egg": {
+        "ClassName": "Consumable_Egg_Crocodile_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Crocodile Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
     },
     "Crop Plot": {
         "ClassName": "StructureBase_CropPlot_C",
@@ -2739,6 +4735,11 @@
         },
         "Name": "Cyan Coloring"
     },
+    "Cyclops Eye": {
+        "ClassName": "Resource_CyclopsEye_TO_C",
+        "Icon": "CyclopsEye_Icon_TO",
+        "Name": "Cyclops Eye"
+    },
     "Cyclops Tame Token": {
         "ClassName": "TameToken_Cyclops_C",
         "Icon": "Item_TamingToken_Icon",
@@ -2947,16 +4948,6 @@
         },
         "Name": "Dinghy Hangar Ship Railing (Kraken)"
     },
-    "Dinghy Sail": {
-        "ClassName": "Ship_Dinghy_Sail_C",
-        "Icon": "dingblackicon3",
-        "Ingredients": {
-            "Fibers": 90.0,
-            "Hide": 40.0,
-            "Wood": 80.0
-        },
-        "Name": "Dinghy Sail"
-    },
     "Dinghy Ship Hangar": {
         "ClassName": "Structure_ShipHangar_Dinghy_C",
         "Icon": "Item_DinghyDock_Icon",
@@ -2967,17 +4958,6 @@
             "Wood": 210.0
         },
         "Name": "Dinghy Ship Hangar"
-    },
-    "Dinghy Ship Hangar Caravela": {
-        "ClassName": "Structure_ShipHangar_Caravela_Base_C",
-        "Icon": "Item_DinghyDockCaravela_Icon2",
-        "Ingredients": {
-            "Fibers": 60.0,
-            "Hide": 15.0,
-            "Metal": 40.0,
-            "Wood": 175.0
-        },
-        "Name": "Dinghy Ship Hangar Caravela"
     },
     "Diving Attachment": {
         "ClassName": "Structure_DivingAttachment_C",
@@ -3188,14 +5168,17 @@
         }
     },
     "Edible Greens Seed": {
-        "ClassName": "Consumable_Vegetable_EdibleGreens_Seed_C",
+        "ClassName": "Consumable_Vegetable_EdibleGreens_Seed_MC_C",
         "Icon": "EdibleGreens_Seed_Icon",
+        "Ingredients": {
+            "Edible Greens": 1.0
+        },
         "Name": "Edible Greens Seed"
     },
-    "Egg!": {
+    "Egg": {
         "ClassName": "Consumable_Egg_C",
         "Icon": "Egg_Icon",
-        "Name": "Egg!",
+        "Name": "Egg",
         "SpoilTime": 691200.0,
         "Type": "",
         "Weight": 4.199999809265137,
@@ -3231,6 +5214,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Elderberry Seed": {
+        "ClassName": "Consumable_Berry_Elderberry_Seed_C",
+        "Icon": "ElderberrySeed_Icon",
+        "Ingredients": {
+            "Elderberry": 1.0
+        },
+        "Name": "Elderberry Seed"
     },
     "Electrical Cable Intersection": {
         "ClassName": "Structure_PowerCableIntersection_C",
@@ -3432,7 +5423,7 @@
         }
     },
     "Fertilized Chicken Egg": {
-        "ClassName": "Consumable_Egg_Chicken_Fertilized_C",
+        "ClassName": "Consumable_Egg_Chicken_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Chicken Egg",
         "SpoilTime": 691200.0,
@@ -3451,13 +5442,53 @@
             }
         }
     },
+    "Fertilized Cobra Egg": {
+        "ClassName": "Consumable_Egg_Cobra_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Cobra Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
+    "Fertilized Crab Egg": {
+        "ClassName": "Consumable_Egg_Crab_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Crab Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Crocodile Egg": {
-        "ClassName": "Consumable_Egg_Crocodile_Fertilized_C",
+        "ClassName": "Consumable_Egg_Crocodile_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Crocodile Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 0.699999988079071,
+        "Weight": 1.399999976158142,
         "stats": {
             "Health": {
                 "add": 0.0,
@@ -3472,7 +5503,7 @@
         }
     },
     "Fertilized Crow Egg": {
-        "ClassName": "Consumable_Egg_Crow_Fertilized_C",
+        "ClassName": "Consumable_Egg_Crow_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Crow Egg",
         "SpoilTime": 691200.0,
@@ -3572,7 +5603,7 @@
         }
     },
     "Fertilized Grand Tortugar Egg": {
-        "ClassName": "Consumable_Egg_CarrierTurtle_Fertilized_C",
+        "ClassName": "Consumable_Egg_CarrierTurtle_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Grand Tortugar Egg",
         "SpoilTime": 691200.0,
@@ -3611,8 +5642,28 @@
             }
         }
     },
+    "Fertilized Leatherwing Egg": {
+        "ClassName": "Consumable_Egg_Leatherwing_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Leatherwing Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Ostrich Egg": {
-        "ClassName": "Consumable_Egg_Ostrich_Fertilized_C",
+        "ClassName": "Consumable_Egg_Ostrich_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Ostrich Egg",
         "SpoilTime": 691200.0,
@@ -3652,7 +5703,7 @@
         }
     },
     "Fertilized Parrot Egg": {
-        "ClassName": "Consumable_Egg_Parrot_Fertilized_C",
+        "ClassName": "Consumable_Egg_Parrot_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Parrot Egg",
         "SpoilTime": 691200.0,
@@ -3692,7 +5743,7 @@
         }
     },
     "Fertilized Penguin Egg": {
-        "ClassName": "Consumable_Egg_Penguin_Fertilized_C",
+        "ClassName": "Consumable_Egg_Penguin_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Penguin Egg",
         "SpoilTime": 691200.0,
@@ -3731,8 +5782,28 @@
             }
         }
     },
+    "Fertilized Rattlesnake Egg": {
+        "ClassName": "Consumable_Egg_Rattlesnake_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Rattlesnake Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Razortooth Egg": {
-        "ClassName": "Consumable_Egg_Razortooth_Fertilized_C",
+        "ClassName": "Consumable_Egg_Razortooth_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Razortooth Egg",
         "SpoilTime": 691200.0,
@@ -3771,8 +5842,28 @@
             }
         }
     },
+    "Fertilized Scorpion Egg": {
+        "ClassName": "Consumable_Egg_Scorpion_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Scorpion Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Seagull Egg": {
-        "ClassName": "Consumable_Egg_Seagull_Fertilized_C",
+        "ClassName": "Consumable_Egg_Seagull_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Seagull Egg",
         "SpoilTime": 691200.0,
@@ -3792,7 +5883,7 @@
         }
     },
     "Fertilized Shieldhorn Egg": {
-        "ClassName": "Consumable_Egg_Shieldhorn_Fertilized_C",
+        "ClassName": "Consumable_Egg_Shieldhorn_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Shieldhorn Egg",
         "SpoilTime": 691200.0,
@@ -3812,7 +5903,7 @@
         }
     },
     "Fertilized Spider Egg": {
-        "ClassName": "Consumable_Egg_Spider_Fertilized_C",
+        "ClassName": "Consumable_Egg_Spider_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Spider Egg",
         "SpoilTime": 691200.0,
@@ -3852,12 +5943,12 @@
         }
     },
     "Fertilized Turtle Egg": {
-        "ClassName": "Consumable_Egg_Turtle_Fertilized_C",
+        "ClassName": "Consumable_Egg_Turtle_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Turtle Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 2.0999999046325684,
+        "Weight": 0.699999988079071,
         "stats": {
             "Food": {
                 "add": 20.0,
@@ -3867,7 +5958,12 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 0.0
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
     },
@@ -3892,7 +5988,7 @@
         }
     },
     "Fertilized Vulture Egg": {
-        "ClassName": "Consumable_Egg_Vulture_Fertilized_C",
+        "ClassName": "Consumable_Egg_Vulture_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Vulture Egg",
         "SpoilTime": 691200.0,
@@ -4183,6 +6279,17 @@
         },
         "Name": "Flintlock"
     },
+    "Floating Operating Base": {
+        "ClassName": "Structure_FloatingOperatingBase_C",
+        "Icon": "FOB_Icon",
+        "Ingredients": {
+            "Fibers": 10000.0,
+            "Gold Coin": 10000.0,
+            "Metal": 15000.0,
+            "Wood": 35000.0
+        },
+        "Name": "Floating Operating Base"
+    },
     "Food Larder": {
         "ClassName": "Structure_MessTable_C",
         "Icon": "Item_Larder_Icon",
@@ -4438,6 +6545,25 @@
             }
         }
     },
+    "Garden Bag": {
+        "ClassName": "Structure_GardenBag_C",
+        "Icon": "GardenBag_Icon",
+        "Ingredients": {
+            "Fibers": 100.0,
+            "Thatch": 50.0
+        },
+        "Name": "Garden Bag"
+    },
+    "Garden Table": {
+        "ClassName": "Structure_GardenTable_C",
+        "Icon": "GardenTable_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 20.0,
+            "Wood": 60.0
+        },
+        "Name": "Garden Table"
+    },
     "Garlic": {
         "ClassName": "Consumable_Herb_Garlic_C",
         "Icon": "Garlic",
@@ -4457,6 +6583,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Garlic Clove": {
+        "ClassName": "Consumable_Herb_Garlic_Clove_C",
+        "Icon": "GarlicClove_Icon",
+        "Ingredients": {
+            "Garlic": 1.0
+        },
+        "Name": "Garlic Clove"
     },
     "Garnet": {
         "ClassName": "Resource_Gem_Garnet_C",
@@ -4699,6 +6833,11 @@
             }
         }
     },
+    "Gorgon Hair": {
+        "ClassName": "Resource_GorgonHair_TO_C",
+        "Icon": "GorgonHair_Icon_TO",
+        "Name": "Gorgon Hair"
+    },
     "Grand Tortugar Egg": {
         "ClassName": "Consumable_Egg_CarrierTurtle_C",
         "Icon": "Egg_Icon",
@@ -4795,8 +6934,7 @@
         "ClassName": "Structure_Gravestone_C",
         "Icon": "Icon_Gravestone",
         "Ingredients": {
-            "Stone": 65.0,
-            "Wood": 15.0
+            "Gold Coin": 50.0
         },
         "Name": "Gravestone"
     },
@@ -4843,6 +6981,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Green Algae Cutting": {
+        "ClassName": "Consumable_Herb_GreenAlgae_Cutting_C",
+        "Icon": "GreenAlgaeCutting_Icon",
+        "Ingredients": {
+            "Green Algae": 1.0
+        },
+        "Name": "Green Algae Cutting"
     },
     "Green Coloring": {
         "ClassName": "Dye_Green_C",
@@ -5172,6 +7318,14 @@
             "Gold Coin": 50.0
         },
         "Name": "Hemp"
+    },
+    "Hemp Seed": {
+        "ClassName": "Consumable_Fiber_Hemp_Seed_C",
+        "Icon": "HempSeeds_Icon",
+        "Ingredients": {
+            "Hemp": 1.0
+        },
+        "Name": "Hemp Seed"
     },
     "Herkimer": {
         "ClassName": "Resource_Crystal_Herkimer_C",
@@ -5935,6 +8089,22 @@
             }
         }
     },
+    "IntelBuns": {
+        "ClassName": "Consumable_BeefX_C",
+        "Icon": "Stat_Intelligence_Icon",
+        "Ingredients": {
+            "Berry": 1.0,
+            "Cooked Meat": 10.0,
+            "Cooking Herbs": 1.0,
+            "Milk or Water": 1.0
+        },
+        "Name": "IntelBuns",
+        "stats": {
+            "CraftingSpeedMultiplier_ADD": {
+                "modify": 9999.0
+            }
+        }
+    },
     "Iodine": {
         "ClassName": "Resource_Preservative_Iodine_C",
         "Icon": "IodineSalt_Icon",
@@ -6017,17 +8187,25 @@
         "ClassName": "HalloweenGeode_C",
         "Icon": "JackDiscountUnlocked_Icon",
         "Ingredients": {
-            "Fibers": 50.0
+            "Gold Coin": 50.0
         },
         "Name": "Jack O' Lantern"
     },
-    "Jack O' Lantern Helment Skin": {
+    "Jack O' Lantern Cannon Skin": {
+        "ClassName": "CannonSkin_JackOLantern_C",
+        "Icon": "Item_CannonSkin_JackOLantern_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Jack O' Lantern Cannon Skin"
+    },
+    "Jack O' Lantern Helmet Skin": {
         "ClassName": "Skin_Holiday_JackOLantern_C",
         "Icon": "ICON_Jacklantern",
         "Ingredients": {
             "Gold Coin": 200.0
         },
-        "Name": "Jack O' Lantern Helment"
+        "Name": "Jack O' Lantern Helmet"
     },
     "Jade Tiger Statue": {
         "ClassName": "Structure_JadeTigerStatue_C",
@@ -6593,7 +8771,7 @@
         "Name": "Lamppost"
     },
     "Lantern": {
-        "ClassName": "Lantern_C",
+        "ClassName": "Lantern_Test_C",
         "Icon": "Item_BeltOilLantern_Icon",
         "Ingredients": {
             "Crystal": 8.0,
@@ -6976,6 +9154,26 @@
         "Icon": "Leather_Icon",
         "Name": "Leather"
     },
+    "Leatherwing Egg": {
+        "ClassName": "Consumable_Egg_Leatherwing_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Leatherwing Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Leech Blood": {
         "ClassName": "Resource_LeechBlood_C",
         "Icon": "LeechBlood_Icon",
@@ -7032,6 +9230,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Licorice Seed": {
+        "ClassName": "Consumable_MedHerb_Licorice_Seed_C",
+        "Icon": "LicoriceSeed_Icon",
+        "Ingredients": {
+            "Licorice": 1.0
+        },
+        "Name": "Licorice Seed"
     },
     "Lieutenant Command Podium": {
         "ClassName": "Structure_Ship_LtOrdersSeat_C",
@@ -7092,6 +9298,14 @@
             }
         }
     },
+    "Lime Seed": {
+        "ClassName": "Consumable_Fruit_Lime_Seed_C",
+        "Icon": "LimeSeed_Icon",
+        "Ingredients": {
+            "Lime": 1.0
+        },
+        "Name": "Lime Seed"
+    },
     "Limestone": {
         "ClassName": "Resource_Stone_Limestone_C",
         "Icon": "Limestone_Icon",
@@ -7129,6 +9343,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Lingonberry Seed": {
+        "ClassName": "Consumable_Berry_Lingonberry_Seed_C",
+        "Icon": "LingonberrySeed_Icon",
+        "Ingredients": {
+            "Lingonberry": 1.0
+        },
+        "Name": "Lingonberry Seed"
     },
     "Lion Figure Head": {
         "ClassName": "StructureBP_FigureHead_Lion_C",
@@ -7257,8 +9479,11 @@
         }
     },
     "Maize Seed": {
-        "ClassName": "Consumable_Vegetable_Maize_Seed_C",
+        "ClassName": "Consumable_Vegetable_Maize_Seed_MC_C",
         "Icon": "Maize_Seed_Icon",
+        "Ingredients": {
+            "Maize": 1.0
+        },
         "Name": "Maize Seed"
     },
     "Majestic Kraken": {
@@ -7378,6 +9603,17 @@
                 "addOverTimeSpeed": 3.923635700109488e-44
             }
         }
+    },
+    "Marvelous Spyglass": {
+        "ClassName": "Weapon_MarvelousSpyglass_C",
+        "Icon": "Telescope_Icon",
+        "Ingredients": {
+            "Alloy": 10.0,
+            "Crystal": 25.0,
+            "Hide": 25.0,
+            "Mythos": 50.0
+        },
+        "Name": "Marvelous Spyglass"
     },
     "Meats": {
         "ClassName": "Consumable_Meat_BASE_C",
@@ -7796,12 +10032,20 @@
             }
         }
     },
+    "Mint Cutting": {
+        "ClassName": "Consumable_Herb_Mint_Cutting_C",
+        "Icon": "MintCutting_Icon",
+        "Ingredients": {
+            "Mint": 1.0
+        },
+        "Name": "Mint Cutting"
+    },
     "Monarch's Cake": {
         "ClassName": "Consumable_MonarchsCake_C",
         "Icon": "Item_MonarchCake_Icon",
         "Ingredients": {
             "Cooking Herbs": 1.0,
-            "Egg!": 2.0,
+            "Egg": 2.0,
             "Potato": 3.0,
             "Saps": 3.0,
             "Wheat or Maize": 15.0
@@ -7839,6 +10083,11 @@
             "Wood": 400.0
         },
         "Name": "Monumental Studies"
+    },
+    "More Crops Seed Vendor": {
+        "ClassName": "Structure_SeedVendor_MC_C",
+        "Icon": "NPC_Recruit_Icon",
+        "Name": "More Crops Seed Vendor"
     },
     "Mortar": {
         "ClassName": "Structure_ShipMortarShip_C",
@@ -8163,6 +10412,14 @@
         },
         "Name": "Olive Coloring"
     },
+    "Olive Seed": {
+        "ClassName": "Consumable_Vegetable_Olive_Seed_C",
+        "Icon": "OliveSeed_Icon",
+        "Ingredients": {
+            "Olives": 1.0
+        },
+        "Name": "Olive Seed"
+    },
     "Olives": {
         "ClassName": "Consumable_Vegetable_Olive_C",
         "Icon": "Olive_Icon",
@@ -8204,8 +10461,11 @@
         }
     },
     "Onion Seed": {
-        "ClassName": "Consumable_Vegetable_Onion_Seed_C",
+        "ClassName": "Consumable_Vegetable_Onion_Seed_MC_C",
         "Icon": "Onion_Seed_Icon",
+        "Ingredients": {
+            "Onion": 1.0
+        },
         "Name": "Onion Seed"
     },
     "Opal": {
@@ -8282,6 +10542,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Oregano Cutting": {
+        "ClassName": "Consumable_Herb_Oregano_Cutting_C",
+        "Icon": "OreganoCutting_Icon",
+        "Ingredients": {
+            "Oregano": 1.0
+        },
+        "Name": "Oregano Cutting"
     },
     "Organic Paste": {
         "ClassName": "Resource_OrganicPaste_C",
@@ -8490,6 +10758,14 @@
             }
         }
     },
+    "Parsley Cutting": {
+        "ClassName": "Consumable_Herb_Parsley_Cutting_C",
+        "Icon": "ParsleyCutting_Icon",
+        "Ingredients": {
+            "Parsley": 1.0
+        },
+        "Name": "Parsley Cutting"
+    },
     "Patch Kit": {
         "ClassName": "Resource_PatchKit_C",
         "Icon": "PatchKit_Icon",
@@ -8628,8 +10904,11 @@
         }
     },
     "Pepper Seed": {
-        "ClassName": "Consumable_Vegetable_Pepper_Seed_C",
+        "ClassName": "Consumable_Vegetable_Pepper_Seed_MC_C",
         "Icon": "Pepper_Seed_Icon",
+        "Ingredients": {
+            "Pepper": 1.0
+        },
         "Name": "Pepper Seed"
     },
     "Pike": {
@@ -8705,6 +10984,15 @@
                 "addOverTimeSpeed": 1.0
             }
         }
+    },
+    "Planter Box": {
+        "ClassName": "Structure_PlanterBox_C",
+        "Icon": "PlanterBox_Icon",
+        "Ingredients": {
+            "Stone": 80.0,
+            "Wood": 80.0
+        },
+        "Name": "Planter Box"
     },
     "Plate Boots": {
         "ClassName": "Armor_HeavyBoots_C",
@@ -8832,6 +11120,14 @@
             }
         }
     },
+    "Poppy Seed": {
+        "ClassName": "Consumable_MedHerb_Poppy_Seed_C",
+        "Icon": "PoppySeed_Icon",
+        "Ingredients": {
+            "Poppy": 1.0
+        },
+        "Name": "Poppy Seed"
+    },
     "Pork Pie": {
         "ClassName": "Consumable_PorkPie_C",
         "Icon": "Item_PorkPie_Icon",
@@ -8911,8 +11207,11 @@
         }
     },
     "Potato Seed": {
-        "ClassName": "Consumable_Vegetable_Potato_Seed_C",
+        "ClassName": "Consumable_Vegetable_Potato_Seed_MC_C",
         "Icon": "Potato_Seed_Icon",
+        "Ingredients": {
+            "Potato": 1.0
+        },
         "Name": "Potato Seed"
     },
     "Preserving Bag": {
@@ -9050,7 +11349,7 @@
         "ClassName": "Consumable_Pudding_C",
         "Icon": "Item_Pudding_Icon",
         "Ingredients": {
-            "Egg!": 3.0,
+            "Egg": 3.0,
             "Milk": 1.0,
             "Rice": 3.0,
             "Salt": 1.0,
@@ -9098,6 +11397,34 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Pumpkin": {
+        "ClassName": "Consumable_Vegetable_Pumpkin_C",
+        "Icon": "Pumpkin_Icon",
+        "Name": "Pumpkin",
+        "SpoilTime": 8640.0,
+        "Type": "Vegetable",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 5.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Torpidity": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.7376100957627732e-43
+            }
+        }
+    },
+    "Pumpkin Seed": {
+        "ClassName": "Consumable_Vegetable_Pumpkin_Seed_C",
+        "Icon": "PumpkinSeed_Icon",
+        "Ingredients": {
+            "Pumpkin": 1.0
+        },
+        "Name": "Pumpkin Seed"
     },
     "Pure Sulfur": {
         "ClassName": "Resource_PureSulfur_C",
@@ -9192,18 +11519,6 @@
         },
         "Name": "Ramming Galley"
     },
-    "Ramshackle Caravela": {
-        "ClassName": "Ship_Caravela_Gold_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Fibers": 175.0,
-            "Gold Coin": 35.0,
-            "Metal": 32.0,
-            "Thatch": 220.0,
-            "Wood": 200.0
-        },
-        "Name": "Ramshackle Caravela"
-    },
     "Raptor Egg": {
         "ClassName": "Consumable_Egg_Raptor_C",
         "Icon": "Egg_Icon",
@@ -9236,6 +11551,26 @@
                 "add": 15.0,
                 "addOverTime": true,
                 "addOverTimeSpeed": 5.0
+            }
+        }
+    },
+    "Rattlesnake Egg": {
+        "ClassName": "Consumable_Egg_Rattlesnake_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Rattlesnake Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
     },
@@ -9314,6 +11649,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Red Algae Cutting": {
+        "ClassName": "Consumable_Herb_RedAlgae_Cutting_C",
+        "Icon": "RedAlgaeCutting_Icon",
+        "Ingredients": {
+            "Red Algae": 1.0
+        },
+        "Name": "Red Algae Cutting"
     },
     "Red Coloring": {
         "ClassName": "Dye_Red_C",
@@ -9398,6 +11741,144 @@
         "Icon": "MenuArrowRight",
         "Name": "Retractable Ladder"
     },
+    "Reusable Bola": {
+        "ClassName": "WeaponBola_RT_C",
+        "Icon": "Item_Bola_Icon_RT",
+        "Ingredients": {
+            "Fibers": 36.0,
+            "Stone": 9.0,
+            "Thatch": 10.0
+        },
+        "Name": "Reusable Bola"
+    },
+    "Reusable Climbing Pick": {
+        "ClassName": "WeaponClimbPick_RT_C",
+        "Icon": "Item_ClimbingPick_Icon_RT",
+        "Ingredients": {
+            "Fibers": 12.0,
+            "Hide": 4.0,
+            "Metal": 8.0,
+            "Wood": 8.0
+        },
+        "Name": "Reusable Climbing Pick"
+    },
+    "Reusable Flare Gun": {
+        "ClassName": "WeaponFlareGun_RT_C",
+        "Icon": "Item_FlareGun_Icon_RT",
+        "Ingredients": {
+            "Fibers": 6.0,
+            "Flint": 2.0,
+            "Gunpowder": 10.0,
+            "Wood": 4.0
+        },
+        "Name": "Reusable Flare Gun"
+    },
+    "Reusable Glider Suit": {
+        "ClassName": "Armor_Glider_RT_C",
+        "Icon": "Item_GliderWings_Icon_RT",
+        "Ingredients": {
+            "Fibers": 32.0,
+            "Keratinoid": 24.0,
+            "Metal": 6.0
+        },
+        "Name": "Reusable Glider Suit"
+    },
+    "Reusable Grappling Hook": {
+        "ClassName": "WeaponGrapplingHook_RT_C",
+        "Icon": "Item_GrapplingHook_Icon_RT",
+        "Ingredients": {
+            "Fibers": 160.0,
+            "Hide": 4.0,
+            "Metal": 16.0,
+            "Wood": 2.0
+        },
+        "Name": "Reusable Grappling Hook"
+    },
+    "Reusable Lantern": {
+        "ClassName": "Lantern_RT_C",
+        "Icon": "Item_BeltOilLantern_Icon_RT",
+        "Ingredients": {
+            "Crystal": 8.0,
+            "Flint": 5.0,
+            "Metal": 4.0,
+            "Oil": 4.0,
+            "Stone": 6.0
+        },
+        "Name": "Reusable Lantern"
+    },
+    "Reusable Repair Hammer": {
+        "ClassName": "WeaponRepairHammer_RT_C",
+        "Icon": "Item_RepairMallet_Icon_RT",
+        "Ingredients": {
+            "Fibers": 22.0,
+            "Thatch": 14.0,
+            "Wood": 18.0
+        },
+        "Name": "Reusable Repair Hammer"
+    },
+    "Reusable Scissors": {
+        "ClassName": "WeaponScissors_RT_C",
+        "Icon": "Item_Scissors_Icon_RT",
+        "Ingredients": {
+            "Flint": 6.0,
+            "Metal": 4.0,
+            "Stone": 2.0
+        },
+        "Name": "Reusable Scissors"
+    },
+    "Reusable Sextant": {
+        "ClassName": "WeaponSextant_RT_C",
+        "Icon": "Item_Sextant_Icon_RT",
+        "Ingredients": {
+            "Crystal": 6.0,
+            "Gem": 12.0,
+            "Metal": 14.0,
+            "Wood": 9.0
+        },
+        "Name": "Reusable Sextant"
+    },
+    "Reusable Shovel": {
+        "ClassName": "WeaponShovel_RT_C",
+        "Icon": "Item_Shovel_Icon_RT",
+        "Ingredients": {
+            "Metal": 6.0,
+            "Thatch": 10.0,
+            "Wood": 18.0
+        },
+        "Name": "Reusable Shovel"
+    },
+    "Reusable Spear": {
+        "ClassName": "WeaponYarkSpear_RT_C",
+        "Icon": "Item_Spear_Icon_RT",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Flint": 3.0,
+            "Wood": 12.0
+        },
+        "Name": "Reusable Spear"
+    },
+    "Reusable Torch": {
+        "ClassName": "WeaponTorch_RT_C",
+        "Icon": "Item_Torch_Icon_RT",
+        "Ingredients": {
+            "Flint": 1.0,
+            "Stone": 1.0,
+            "Thatch": 10.0,
+            "Wood": 3.0
+        },
+        "Name": "Reusable Torch"
+    },
+    "Reusable Wood Wall Hook": {
+        "ClassName": "Structure_WallHook_Wood_RT_C",
+        "Icon": "Item_Wallhook_Icon_RT",
+        "Ingredients": {
+            "Flint": 3.0,
+            "Metal": 4.0,
+            "Thatch": 8.0,
+            "Wood": 12.0
+        },
+        "Name": "Reusable Wood Wall Hook"
+    },
     "Rhino Horn": {
         "ClassName": "Resource_Keratanoid_RhinoHorn_C",
         "Icon": "RhinoHornIcon",
@@ -9424,8 +11905,11 @@
         }
     },
     "Rice Seed": {
-        "ClassName": "Consumable_Vegetable_Rice_Seed_C",
+        "ClassName": "Consumable_Vegetable_Rice_Seed_MC_C",
         "Icon": "Rice_Seed_Icon",
+        "Ingredients": {
+            "Rice": 1.0
+        },
         "Name": "Rice Seed"
     },
     "Right Hook Hand Skin": {
@@ -9582,6 +12066,14 @@
                 "addOverTimeSpeed": 3.0436202645135027e-42
             }
         }
+    },
+    "Rosemary Cutting": {
+        "ClassName": "Consumable_Herb_Rosemary_Cutting_C",
+        "Icon": "RosemaryCutting_Icon",
+        "Ingredients": {
+            "Rosemary": 1.0
+        },
+        "Name": "Rosemary Cutting"
     },
     "Rotten Meat": {
         "ClassName": "Consumable_Meat_Spoiled_C",
@@ -9877,8 +12369,7 @@
         "ClassName": "Structure_Scarecrow_C",
         "Icon": "Scarecrow_Icon",
         "Ingredients": {
-            "Thatch": 65.0,
-            "Wood": 15.0
+            "Gold Coin": 50.0
         },
         "Name": "Scarecrow"
     },
@@ -9901,6 +12392,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Schisandra Seed": {
+        "ClassName": "Consumable_Berry_Schisandra_Seed_C",
+        "Icon": "SchisandraSeed_Icon",
+        "Ingredients": {
+            "Schisandra": 1.0
+        },
+        "Name": "Schisandra Seed"
     },
     "Schooner": {
         "ClassName": "Ship_Schooner_C",
@@ -9930,6 +12429,44 @@
             "Stone": 2.0
         },
         "Name": "Scissors"
+    },
+    "Scorpion Egg": {
+        "ClassName": "Consumable_Egg_Scorpion_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Scorpion Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
+    "Sea Dock": {
+        "ClassName": "StructureShipHouse_FOB_C",
+        "Icon": "FOB_Dock_Icon",
+        "Ingredients": {
+            "Fibers": 5000.0,
+            "Metal": 5000.0,
+            "Wood": 10000.0
+        },
+        "Name": "Sea Dock"
+    },
+    "Sea Grape Seed": {
+        "ClassName": "Consumable_Berry_SeaGrapes_Seed_C",
+        "Icon": "SeaGrapeSeed_Icon",
+        "Ingredients": {
+            "Sea Grapes": 1.0
+        },
+        "Name": "Sea Grape Seed"
     },
     "Sea Grapes": {
         "ClassName": "Consumable_Berry_SeaGrape_C",
@@ -10212,6 +12749,16 @@
         },
         "Name": "Ship Rear Castle"
     },
+    "Ship Repair Podium": {
+        "ClassName": "Structure_RepairPodium_SRC_C",
+        "Icon": "RepairPodium_Icon_SRC",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Thatch": 18.0,
+            "Wood": 30.0
+        },
+        "Name": "Ship Repair Podium"
+    },
     "Ship Resources Box": {
         "ClassName": "Structure_CrewPaymentBox_C",
         "Icon": "IconCrewPaymentBox",
@@ -10242,17 +12789,6 @@
             "Wood": 40.0
         },
         "Name": "Ship Steering Wheel"
-    },
-    "ShipCargoRack Caravela": {
-        "ClassName": "Structure_ShipHangarCargo_Caravela_C",
-        "Icon": "CargoCaravelaIcon",
-        "Ingredients": {
-            "Fibers": 386.0,
-            "Hide": 82.0,
-            "Metal": 78.0,
-            "Wood": 452.0
-        },
-        "Name": "ShipCargoRack Caravela"
     },
     "ShipHangarBase": {
         "ClassName": "Structure_ShipHangar_Base_C",
@@ -10856,6 +13392,26 @@
             }
         }
     },
+    "Spider Egg": {
+        "ClassName": "Consumable_Egg_Spider_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Spider Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Spike Shot": {
         "ClassName": "Ammo_SpikeShot_C",
         "Icon": "Item_SpikeShot_Icon",
@@ -10905,6 +13461,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Spirulina Seed": {
+        "ClassName": "Consumable_MedHerb_Spirulina_Seed_C",
+        "Icon": "SpirulinaSeed_Icon",
+        "Ingredients": {
+            "Spirulina": 1.0
+        },
+        "Name": "Spirulina Seed"
     },
     "Spray Painter": {
         "ClassName": "WeaponSprayPaint_C",
@@ -11229,6 +13793,14 @@
             }
         }
     },
+    "Strawberry Seed": {
+        "ClassName": "Consumable_BerryStrawberry_Seed_C",
+        "Icon": "StrawberrySeed_Icon",
+        "Ingredients": {
+            "Strawberry": 1.0
+        },
+        "Name": "Strawberry Seed"
+    },
     "Structure Cheat Box": {
         "ClassName": "Structure_CheatBox_C",
         "Icon": "SmallStorage_Icon",
@@ -11297,6 +13869,14 @@
         "ClassName": "Consumable_Vegetable_Sugarcane_C",
         "Icon": "Sugarcane_Icon",
         "Name": "Sugarcane"
+    },
+    "Sugarcane Cutting": {
+        "ClassName": "Consumable_Sugar_Sugarcane_Cutting_C",
+        "Icon": "SugarCane_Cutting_Icon",
+        "Ingredients": {
+            "Sugarcane": 1.0
+        },
+        "Name": "Sugarcane Cutting"
     },
     "Sugars": {
         "ClassName": "Resource_Sap_Wax_C",
@@ -11501,6 +14081,14 @@
         "Icon": "Syrup_Icon",
         "Name": "Syrup"
     },
+    "Syrup Seed": {
+        "ClassName": "Consumable_Sugar_Syrup_Seed_C",
+        "Icon": "Syrup_Seed_Icon",
+        "Ingredients": {
+            "Syrup": 1.0
+        },
+        "Name": "Syrup Seed"
+    },
     "Tame Cargo Module": {
         "ClassName": "Structure_TameCargoModule_C",
         "Ingredients": {
@@ -11594,7 +14182,7 @@
         "Icon": "Item_TaraNostriTreat_Icon",
         "Ingredients": {
             "Blackberry": 10.0,
-            "Egg!": 5.0,
+            "Egg": 5.0,
             "Mint": 5.0,
             "Salt": 3.0,
             "Saps": 5.0,
@@ -11790,6 +14378,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Thyme Cutting": {
+        "ClassName": "Consumable_Herb_Thyme_Cutting_C",
+        "Icon": "ThymeCutting_Icon",
+        "Ingredients": {
+            "Thyme": 1.0
+        },
+        "Name": "Thyme Cutting"
     },
     "Tier 2 Cargo Saddle": {
         "ClassName": "Armor_SaddleHarness_Tier2_C",
@@ -12180,6 +14776,14 @@
             }
         }
     },
+    "Turmeric Seed": {
+        "ClassName": "Consumable_MedHerb_Turmeric_Seed_C",
+        "Icon": "TurmericSeed_Icon",
+        "Ingredients": {
+            "Turmeric": 1.0
+        },
+        "Name": "Turmeric Seed"
+    },
     "Turnip": {
         "ClassName": "Consumable_Vegetable_Turnip_C",
         "Icon": "Turnip_Icon",
@@ -12201,17 +14805,20 @@
         }
     },
     "Turnip Seed": {
-        "ClassName": "Consumable_Vegetable_Turnip_Seed_C",
+        "ClassName": "Consumable_Vegetable_Turnip_Seed_MC_C",
         "Icon": "Turnip_Seed_Icon",
+        "Ingredients": {
+            "Turnip": 1.0
+        },
         "Name": "Turnip Seed"
     },
     "Turtle Egg": {
-        "ClassName": "Consumable_Egg_Turtle_C",
+        "ClassName": "Consumable_Egg_Turtle_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Turtle Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 2.0999999046325684,
+        "Weight": 0.699999988079071,
         "stats": {
             "Food": {
                 "add": 20.0,
@@ -12221,7 +14828,12 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 0.0
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
     },
@@ -12266,10 +14878,7 @@
         "ClassName": "TwoHandedScythe_C",
         "Icon": "ICON_Scythe",
         "Ingredients": {
-            "Fibers": 8.0,
-            "Hide": 12.0,
-            "Metal": 32.0,
-            "Wood": 16.0
+            "Gold Coin": 50.0
         },
         "Name": "Two-Handed Scythe"
     },
@@ -12591,6 +15200,17 @@
         },
         "Name": "Water Reservoir"
     },
+    "Water Well": {
+        "ClassName": "Structure_WaterWell_MC_C",
+        "Icon": "WaterWell_Icon_MC",
+        "Ingredients": {
+            "Metal": 5.0,
+            "Organic Paste": 10.0,
+            "Stone": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "Water Well"
+    },
     "Watercourse Green Coloring": {
         "ClassName": "Dye_WatercourseGreen_C",
         "Ingredients": {
@@ -12598,6 +15218,50 @@
             "Water": 1.0
         },
         "Name": "Watercourse Green Coloring"
+    },
+    "Watering Bucket": {
+        "ClassName": "WateringBucket_C",
+        "Icon": "WateringBucket_Icon",
+        "Ingredients": {
+            "Metal": 4.0,
+            "Oil": 4.0,
+            "Thatch": 24.0,
+            "Wood": 24.0
+        },
+        "Name": "Watering Bucket"
+    },
+    "Watermelon": {
+        "ClassName": "Consumable_Fruit_Watermelon_C",
+        "Icon": "Watermelon_Icon",
+        "Name": "Watermelon",
+        "SpoilTime": 8640.0,
+        "Type": "Fruit",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 5.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 0.0
+            },
+            "Torpidity": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.7376100957627732e-43
+            }
+        }
+    },
+    "Watermelon Seed": {
+        "ClassName": "Consumable_Fruit_Watermelon_Seed_C",
+        "Icon": "WatermelonSeeds_Icon",
+        "Ingredients": {
+            "Watermelon": 1.0
+        },
+        "Name": "Watermelon Seed"
     },
     "Waterskin": {
         "ClassName": "Consumable_WaterskinRefill_C",
@@ -12640,8 +15304,11 @@
         }
     },
     "Wheat Seed": {
-        "ClassName": "Consumable_Vegetable_Wheat_Seed_C",
+        "ClassName": "Consumable_Vegetable_Wheat_Seed_MC_C",
         "Icon": "Wheat_Seed_Icon",
+        "Ingredients": {
+            "Wheat": 1.0
+        },
         "Name": "Wheat Seed"
     },
     "Wheat or Maize": {
@@ -13011,6 +15678,9 @@
     "Witch's Hat Skin": {
         "ClassName": "Skin_WitchHatDino_C",
         "Icon": "WitchHat_Icon",
+        "Ingredients": {
+            "Gold Coin": 200.0
+        },
         "Name": "Witch's Hat"
     },
     "Wood": {
@@ -13393,6 +16063,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Yarrow Seed": {
+        "ClassName": "Consumable_MedHerb_Yarrow_Seed_C",
+        "Icon": "YarrowSeed_Icon",
+        "Ingredients": {
+            "Yarrow": 1.0
+        },
+        "Name": "Yarrow Seed"
     },
     "Yellow Coloring": {
         "ClassName": "Dye_Yellow_C",

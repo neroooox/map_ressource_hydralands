@@ -147,6 +147,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -154,7 +156,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -310,6 +312,8 @@
 			"Wild Potato",
 			"Wild Rice"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -317,7 +321,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -394,6 +398,7 @@
 			"Wolf",
 			"Yeti",
 			"Yeti SnowCave",
+			"Yeti TO",
 			null
 		],
 		"biomes": [
@@ -462,6 +467,8 @@
 			"Wild Chili",
 			"Wild Potato"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -469,7 +476,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -532,16 +539,14 @@
 			"Seahorse",
 			"Shark",
 			"Sheep",
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner",
 			"Spider",
 			"Squid",
 			"Tiger",
 			"Turtle",
 			"Vulture",
 			"Wolf",
-			"Yeti"
+			"Yeti",
+			"Yeti TO"
 		],
 		"biomes": [
 			"Western Temperate",
@@ -621,6 +626,8 @@
 			"Wild Pepper",
 			"Yarrow"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -628,7 +635,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -660,24 +667,36 @@
 			-1
 		],
 		"animals": [
+			"Ant",
 			"Bear",
 			"Cat",
 			"Chicken",
+			"Cobra",
 			"Cow",
+			"Crocodile",
+			"Elephant",
+			"Giraffe",
 			"Horse",
 			"Monkey",
+			"Ostrich",
 			"Parrot",
 			"Pig",
 			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
 			"Seagull",
+			"Spider",
+			"Tiger",
 			"Turtle",
-			null
+			"Wolf"
 		],
 		"biomes": [
-			"Eastern Tropics",
 			"Ocean Water",
 			"At Land",
-			"Eastern Tropics (Freeport)"
+			"Equator",
+			"Eastern Tropics",
+			"Eastern Tropics (Freeport)",
+			"Western Tropics"
 		],
 		"flotsam": {
 			"qualityMultiplier": 1,
@@ -693,30 +712,62 @@
 		"resources": [
 			"Acai",
 			"Acerola",
+			"Aloe",
+			"Ash",
+			"Bark",
+			"Basalt",
 			"Basil",
 			"Blackberry",
+			"Calcite",
+			"Chert",
 			"Cilantro",
 			"Coal",
+			"Cobalt",
+			"Coconut",
+			"Copper",
+			"Coquina",
 			"Crystal",
 			"Elderberry",
+			"Emerald",
 			"Fibers",
 			"Flint",
 			"FreshWater",
+			"Fronds",
+			"Granite",
+			"Graphite",
+			"Gum",
+			"Hemp",
+			"Herkimer",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Lime",
 			"Maps",
 			"Metal",
+			"Oak",
+			"Olives",
+			"Reeds",
+			"Rushes",
 			"Saps",
+			"Sea Grapes",
 			"Stone",
 			"Strawberry",
 			"Sugarcane",
+			"Sugars",
+			"Sulfur",
 			"Thatch",
 			"Turmeric",
 			"Wild Beans",
 			"Wild Cactus",
 			"Wild Carrot",
+			"Wild Chick Peas",
 			"Wild Onion",
 			"Wild Rice",
 			"Wood"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -724,7 +775,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -769,14 +820,16 @@
 		"name": "B3 - (HydraLands)",
 		"region": "",
 		"resources": [],
+		"serverCustomDatas1": ",NPCShipNumMult,NPCShipDifficultyMult",
+		"serverCustomDatas2": ",3.0,1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
 			"levelMinOveride": 0,
-			"levelMultiplier": 1,
+			"levelMultiplier": 1.5,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				111,
 				5000,
 				1800
 			]
@@ -946,6 +999,8 @@
 			"Wild Rice",
 			"Wild Turnip"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -953,7 +1008,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -1026,7 +1081,8 @@
 			"Turtle",
 			"Vulture",
 			"Wolf",
-			"Yeti"
+			"Yeti",
+			"Yeti TO"
 		],
 		"biomes": [
 			"Equator",
@@ -1120,6 +1176,8 @@
 			"Wild Potato",
 			"Wild Turnip"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -1127,7 +1185,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]
@@ -1285,6 +1343,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
+		"serverCustomDatas1": ",NPCShipNumMult",
+		"serverCustomDatas2": ",1.5",
 		"serverIslandPointsMultiplier": 1,
 		"sotd": {
 			"levelLerp": 0,
@@ -1292,7 +1352,7 @@
 			"levelMultiplier": 1,
 			"levelOffset": 0,
 			"spawnLimits": [
-				37,
+				55.5,
 				5000,
 				1800
 			]

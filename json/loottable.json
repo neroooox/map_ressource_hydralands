@@ -260,6 +260,23 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Buwaya_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Cyclops_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -277,7 +294,73 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Cyclops_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cyclops Eye"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Eber_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_FireElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -328,7 +411,73 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Gorgon_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gorgon Hair"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Hydra_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Kekada_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_RockElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -1022,6 +1171,7 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_CaveDrop_T1_Armor_C": null,
         "LootItemSet_Encampment_Consumables_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -2461,6 +2611,21 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Jack O' Lantern"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 10.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 5.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
             }
         ],
         "LootItemSet_ShipStructures_C": [
@@ -2574,6 +2739,21 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Jack O' Lantern"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 15.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 7.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
             }
         ],
         "LootItemSet_ShipStructures_Schooner_C": [
@@ -2621,6 +2801,21 @@
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.4000000059604645,
                 "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Jack O' Lantern"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 5.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 5.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
@@ -2752,24 +2947,6 @@
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.4000000059604645,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            },
-            {
-                "ChanceForBlueprint": 0.5,
-                "ChanceForItem": 0.5,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Advanced Shipyard",
-                    "Basic Shipyard",
-                    "Large Shipyard",
-                    "Small Shipyard"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.20000000298023224,
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,

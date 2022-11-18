@@ -18440,6 +18440,7 @@
 			"Wolf",
 			"Yeti",
 			"Yeti SnowCave",
+			"Yeti TO",
 			null
 		],
 		"biomeTags": [
@@ -23114,9 +23115,9 @@
 			"Rushes": 19730,
 			"Schisandra": 13994,
 			"Slate": 20047,
-			"Strawberry": 323,
+			"Strawberry": 2545,
 			"Sulfur": 172,
-			"Sunstone": 3189,
+			"Sunstone": 644,
 			"Syrup": 49,
 			"Tellurite": 653,
 			"Tin": 544,
@@ -50549,7 +50550,8 @@
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti"
+			"Yeti",
+			"Yeti TO"
 		],
 		"biomeTags": [
 			"Polar",
@@ -69239,7 +69241,8 @@
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti"
+			"Yeti",
+			"Yeti TO"
 		],
 		"biomeTags": [
 			"Polar",
@@ -70421,138 +70424,6 @@
 		"worldX": 2519384.5,
 		"worldY": 702520.7
 	},
-	"67": {
-		"animals": [],
-		"biomeTags": [],
-		"biomes": [],
-		"discoveries": [],
-		"grid": "C2",
-		"homeServer": false,
-		"id": 67,
-		"isControlPoint": true,
-		"islandHeight": 60000,
-		"islandWidth": 60000,
-		"name": "ControlPoint",
-		"region": "",
-		"resources": {},
-		"rotation": 0,
-		"sublevels": [
-			"Capture_Point"
-		],
-		"worldX": 3074825.25,
-		"worldY": 2102882.5
-	},
-	"68": {
-		"animals": [],
-		"biomeTags": [],
-		"biomes": [],
-		"discoveries": [],
-		"grid": "A2",
-		"homeServer": false,
-		"id": 68,
-		"isControlPoint": true,
-		"islandHeight": 60000,
-		"islandWidth": 60000,
-		"name": "ControlPoint",
-		"region": "",
-		"resources": {},
-		"rotation": 0,
-		"sublevels": [
-			"Capture_Point"
-		],
-		"worldX": 1121264.38,
-		"worldY": 2093719.25
-	},
-	"69": {
-		"animals": [],
-		"biomeTags": [],
-		"biomes": [],
-		"discoveries": [],
-		"grid": "A1",
-		"homeServer": false,
-		"id": 69,
-		"isControlPoint": true,
-		"islandHeight": 60000,
-		"islandWidth": 60000,
-		"name": "ControlPoint",
-		"region": "",
-		"resources": {},
-		"rotation": 0,
-		"sublevels": [
-			"Capture_Point"
-		],
-		"worldX": 1121264.38,
-		"worldY": 695599.2
-	},
-	"70": {
-		"animals": [],
-		"biomeTags": [],
-		"biomes": [],
-		"discoveries": [],
-		"grid": "C1",
-		"homeServer": false,
-		"id": 70,
-		"isControlPoint": true,
-		"islandHeight": 60000,
-		"islandWidth": 60000,
-		"name": "ControlPoint",
-		"region": "",
-		"resources": {},
-		"rotation": 0,
-		"sublevels": [
-			"Capture_Point"
-		],
-		"worldX": 3076555.75,
-		"worldY": 695599.2
-	},
-	"71": {
-		"animals": [
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner"
-		],
-		"biomeTags": [],
-		"biomes": [
-			{
-				"gps": [
-					-0.1800595223903656,
-					66.81168365478516
-				],
-				"name": "Ocean Water",
-				"temp": [
-					-999,
-					70
-				]
-			},
-			{
-				"gps": [
-					-0.37945833802223206,
-					66.81168365478516
-				],
-				"name": "At Land",
-				"temp": [
-					-999,
-					70
-				]
-			}
-		],
-		"discoveries": [],
-		"grid": "B1",
-		"homeServer": false,
-		"id": 71,
-		"isControlPoint": true,
-		"islandHeight": 60000,
-		"islandWidth": 60000,
-		"name": "ControlPoint",
-		"region": "",
-		"resources": {},
-		"rotation": 0,
-		"sublevels": [
-			"Capture_Point"
-		],
-		"worldX": 2098526,
-		"worldY": 686370.7
-	},
 	"103": {
 		"animals": [
 			"Bear",
@@ -70565,8 +70436,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomeTags": [
 			"EasternTropics",
@@ -70577,8 +70447,8 @@
 		"biomes": [
 			{
 				"gps": [
-					-0.08790475875139236,
-					-24.03807258605957
+					18.948976516723633,
+					-23.388463973999023
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70593,8 +70463,8 @@
 			},
 			{
 				"gps": [
-					-0.0875595286488533,
-					-24.68852424621582
+					18.969322204589844,
+					-23.126880645751953
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70609,8 +70479,8 @@
 			},
 			{
 				"gps": [
-					-0.0875595286488533,
-					-25.337093353271484
+					19.118213653564453,
+					-22.158405303955078
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70625,8 +70495,8 @@
 			},
 			{
 				"gps": [
-					-0.5400000214576721,
-					-23.42810821533203
+					19.701000213623047,
+					-23.339916229248047
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70641,8 +70511,8 @@
 			},
 			{
 				"gps": [
-					-0.7151785492897034,
-					-22.742334365844727
+					19.825916290283203,
+					-22.44207191467285
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70657,8 +70527,8 @@
 			},
 			{
 				"gps": [
-					-0.7199404835700989,
-					-24.042808532714844
+					20.21408462524414,
+					-22.966381072998047
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70673,8 +70543,8 @@
 			},
 			{
 				"gps": [
-					-0.7199404835700989,
-					-24.68852424621582
+					20.333951950073242,
+					-22.06810760498047
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70689,8 +70559,8 @@
 			},
 			{
 				"gps": [
-					-1.1746726036071777,
-					-23.433820724487305
+					20.59866714477539,
+					-23.488035202026367
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70705,8 +70575,8 @@
 			},
 			{
 				"gps": [
-					-1.3480356931686401,
-					-22.742809295654297
+					20.722808837890625,
+					-22.590749740600586
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70721,8 +70591,8 @@
 			},
 			{
 				"gps": [
-					-1.3456547260284424,
-					-23.394237518310547
+					20.84278678894043,
+					-21.691808700561523
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70737,8 +70607,8 @@
 			},
 			{
 				"gps": [
-					-1.3523215055465698,
-					-24.042808532714844
+					20.883869171142578,
+					-22.52102279663086
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70753,8 +70623,8 @@
 			},
 			{
 				"gps": [
-					-1.9788689613342285,
-					-22.741880416870117
+					21.102691650390625,
+					-23.116464614868164
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70769,8 +70639,8 @@
 			},
 			{
 				"gps": [
-					-1.9780356884002686,
-					-23.394237518310547
+					21.391048431396484,
+					-22.139440536499023
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70785,8 +70655,8 @@
 			},
 			{
 				"gps": [
-					-1.978511929512024,
-					-24.042333602905273
+					21.50457191467285,
+					-21.248952865600586
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70801,8 +70671,8 @@
 			},
 			{
 				"gps": [
-					-2.37970232963562,
-					-22.09330940246582
+					21.611427307128906,
+					-22.740833282470703
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70817,8 +70687,8 @@
 			},
 			{
 				"gps": [
-					-2.6126785278320312,
-					-23.389976501464844
+					21.899213790893555,
+					-21.763999938964844
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70833,8 +70703,8 @@
 			},
 			{
 				"gps": [
-					-3.0747499465942383,
-					-22.784000396728516
+					21.994976043701172,
+					-23.260297775268555
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70849,8 +70719,8 @@
 			},
 			{
 				"gps": [
-					-3.246488094329834,
-					-22.982345581054688
+					22.019119262695312,
+					-20.871036529541016
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -70865,120 +70735,8 @@
 			},
 			{
 				"gps": [
-					0.08026190102100372,
-					-22.77916717529297
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.09180952608585358,
-					-23.427928924560547
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.5497024059295654,
-					-24.03807258605957
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.5452976226806641,
-					-24.688047409057617
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.5452976226806641,
-					-25.336620330810547
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.7186785936355591,
-					-22.78077507019043
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.7214047312736511,
-					-23.432214736938477
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.8519285321235657,
-					-22.642154693603516
+					22.043975830078125,
+					-20.680370330810547
 				],
 				"name": "Eastern Tropics (Freeport)",
 				"tags": [
@@ -70993,8 +70751,8 @@
 			},
 			{
 				"gps": [
-					0.8706666231155396,
-					-22.64598846435547
+					22.061321258544922,
+					-20.672332763671875
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71010,8 +70768,8 @@
 			},
 			{
 				"gps": [
-					1.1825594902038574,
-					-24.03807258605957
+					22.1170711517334,
+					-22.361608505249023
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71026,8 +70784,8 @@
 			},
 			{
 				"gps": [
-					1.1825594902038574,
-					-24.682355880737305
+					22.408262252807617,
+					-21.393476486206055
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71042,8 +70800,8 @@
 			},
 			{
 				"gps": [
-					1.3522499799728394,
-					-22.77916717529297
+					22.503713607788086,
+					-22.884666442871094
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71058,8 +70816,8 @@
 			},
 			{
 				"gps": [
-					1.3488094806671143,
-					-23.429391860961914
+					22.527856826782227,
+					-20.493404388427734
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71074,8 +70832,8 @@
 			},
 			{
 				"gps": [
-					1.350845217704773,
-					-24.073869705200195
+					22.630001068115234,
+					-21.98287010192871
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71090,8 +70848,8 @@
 			},
 			{
 				"gps": [
-					1.8142143487930298,
-					-25.337093353271484
+					22.888952255249023,
+					-23.40642738342285
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71106,8 +70864,8 @@
 			},
 			{
 				"gps": [
-					1.8152024745941162,
-					-24.68291664123535
+					22.91131019592285,
+					-21.0185489654541
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71122,8 +70880,8 @@
 			},
 			{
 				"gps": [
-					1.9837381839752197,
-					-24.723190307617188
+					23.01254653930664,
+					-22.508380889892578
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71138,8 +70896,8 @@
 			},
 			{
 				"gps": [
-					1.9819881916046143,
-					-25.37592887878418
+					23.040964126586914,
+					-20.114547729492188
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71154,8 +70912,8 @@
 			},
 			{
 				"gps": [
-					1.9900715351104736,
-					-22.77916717529297
+					23.139118194580078,
+					-21.606952667236328
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71170,8 +70928,8 @@
 			},
 			{
 				"gps": [
-					1.9853333234786987,
-					-24.073238372802734
+					23.295761108398438,
+					-21.535797119140625
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71186,8 +70944,8 @@
 			},
 			{
 				"gps": [
-					2.614785671234131,
-					-24.071273803710938
+					23.397785186767578,
+					-23.03013038635254
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71202,8 +70960,8 @@
 			},
 			{
 				"gps": [
-					2.614785671234131,
-					-24.724750518798828
+					23.521821975708008,
+					-22.125261306762695
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71218,8 +70976,8 @@
 			},
 			{
 				"gps": [
-					3.1929163932800293,
-					-21.998523712158203
+					23.5449275970459,
+					-18.772071838378906
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71234,8 +70992,8 @@
 			},
 			{
 				"gps": [
-					3.1929163932800293,
-					-22.646142959594727
+					23.80582046508789,
+					-21.158405303955078
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71250,8 +71008,8 @@
 			},
 			{
 				"gps": [
-					3.247654914855957,
-					-24.27157211303711
+					23.929607391357422,
+					-19.293060302734375
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71266,8 +71024,8 @@
 			},
 			{
 				"gps": [
-					3.2477736473083496,
-					-24.925262451171875
+					24.031095504760742,
+					-21.749940872192383
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71282,8 +71040,8 @@
 			},
 			{
 				"gps": [
-					3.8832619190216064,
-					-24.2747859954834
+					24.190595626831055,
+					-21.682239532470703
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71298,8 +71056,120 @@
 			},
 			{
 				"gps": [
-					3.884881019592285,
-					-24.928476333618164
+					24.311023712158203,
+					-20.782939910888672
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					24.418882369995117,
+					-22.276798248291016
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					24.576906204223633,
+					-22.20838165283203
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					24.69917869567871,
+					-21.308643341064453
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					24.939117431640625,
+					-20.56815528869629
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					25.327512741088867,
+					-21.093963623046875
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					25.452369689941406,
+					-20.193191528320312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					25.841951370239258,
+					-20.71811866760254
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71381,18 +71251,5213 @@
 			"Wild Rice": 1162,
 			"Wood": 2098
 		},
+		"rotation": -36.4406433,
+		"sublevels": [
+			"Cay_K",
+			"Cay_K_Far_01E",
+			"Cay_K_Farthest_01E",
+			"Cay_K_Near_01E",
+			"Cay_K_Marine_Warm_Near"
+		],
+		"worldX": 2534380.75,
+		"worldY": 2534381.75
+	},
+	"114": {
+		"animals": [
+			"Ant",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Elephant",
+			"Horse",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomeTags": [
+			"Equatorial",
+			"EquatorialHot",
+			"EquatorialWindy"
+		],
+		"biomes": [
+			{
+				"gps": [
+					-10.176726341247559,
+					-23.054941177368164
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176678657531738,
+					-23.766225814819336
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176678657531738,
+					-24.483083724975586
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176630973815918,
+					-25.194368362426758
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176630973815918,
+					-25.90560531616211
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176583290100098,
+					-26.616891860961914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176583290100098,
+					-27.331369400024414
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176535606384277,
+					-28.04265594482422
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.176487922668457,
+					-28.753747940063477
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893726348876953,
+					-23.054893493652344
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893678665161133,
+					-23.766178131103516
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893678665161133,
+					-24.483036041259766
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893630981445312,
+					-25.194320678710938
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893630981445312,
+					-25.90555763244629
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893583297729492,
+					-26.616844177246094
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893583297729492,
+					-27.331321716308594
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893535614013672,
+					-28.0426082611084
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-10.893487930297852,
+					-28.753704071044922
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607869148254395,
+					-20.20522689819336
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607821464538574,
+					-20.916179656982422
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607773780822754,
+					-21.629703521728516
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607726097106934,
+					-22.342273712158203
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607678413391113,
+					-23.054845809936523
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.60763168334961,
+					-23.766130447387695
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.60763168334961,
+					-24.482988357543945
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607583999633789,
+					-25.194272994995117
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607583999633789,
+					-25.90550994873047
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607536315917969,
+					-26.616796493530273
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607536315917969,
+					-27.331274032592773
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-11.607488632202148,
+					-28.042560577392578
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.318868637084961,
+					-19.488035202026367
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.31882095336914,
+					-20.20517921447754
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.31877326965332,
+					-20.9161319732666
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.3187255859375,
+					-21.629655838012695
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.31867790222168,
+					-22.342226028442383
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.318631172180176,
+					-23.054798126220703
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-12.318583488464355,
+					-23.766084671020508
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030298233032227,
+					-19.487987518310547
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030250549316406,
+					-20.20513153076172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030202865600586,
+					-20.91608428955078
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030155181884766,
+					-21.629608154296875
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030107498168945,
+					-22.342178344726562
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030059814453125,
+					-23.054750442504883
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.030012130737305,
+					-23.766036987304688
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.743011474609375,
+					-14.494606971740723
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742963790893555,
+					-15.21289348602295
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742916107177734,
+					-15.924464225769043
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742868423461914,
+					-16.640605926513672
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742820739746094,
+					-17.353130340576172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742773056030273,
+					-18.06736946105957
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742725372314453,
+					-18.781797409057617
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742677688598633,
+					-19.487987518310547
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.742820739746094,
+					-20.195653915405273
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-13.744297981262207,
+					-21.629703521728516
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.744250297546387,
+					-22.342273712158203
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.744202613830566,
+					-23.054845809936523
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.744154930114746,
+					-23.766130447387695
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748916625976562,
+					-10.196273803710938
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748868942260742,
+					-10.910083770751953
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748821258544922,
+					-11.636321067810059
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748773574829102,
+					-12.348797798156738
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748725891113281,
+					-13.064892768859863
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.748678207397461,
+					-13.779417037963867
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-13.747106552124023,
+					-20.91160774230957
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-13.748964309692383,
+					-9.483559608459473
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.45444107055664,
+					-14.494559288024902
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.45439338684082,
+					-15.212845802307129
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.454345703125,
+					-15.924416542053223
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.45429801940918,
+					-16.64055824279785
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.45425033569336,
+					-17.35308265686035
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.454202651977539,
+					-18.06732177734375
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.454154968261719,
+					-18.781749725341797
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.454107284545898,
+					-19.487939834594727
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.454488754272461,
+					-20.195608139038086
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-14.453821182250977,
+					-20.91156005859375
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-14.463964462280273,
+					-10.196321487426758
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.463916778564453,
+					-10.910131454467773
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.463869094848633,
+					-11.636368751525879
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.463821411132812,
+					-12.348845481872559
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.463773727416992,
+					-13.064940452575684
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.463726043701172,
+					-13.779464721679688
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.455726623535156,
+					-21.629655838012695
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.455678939819336,
+					-22.342226028442383
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.455631256103516,
+					-23.054798126220703
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-14.464012145996094,
+					-9.483607292175293
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.171869277954102,
+					-11.638702392578125
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.171916961669922,
+					-12.35132122039795
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.171964645385742,
+					-13.065653800964355
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.172012329101562,
+					-13.777892112731934
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.169535636901855,
+					-14.494606971740723
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.169487953186035,
+					-15.21289348602295
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.169440269470215,
+					-15.924464225769043
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.169392585754395,
+					-16.640605926513672
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.169344902038574,
+					-17.353130340576172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.169297218322754,
+					-18.06736946105957
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.171773910522461,
+					-18.768272399902344
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.17172622680664,
+					-19.482131958007812
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.17167854309082,
+					-20.19884490966797
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.172916412353516,
+					-20.91151237487793
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.168869018554688,
+					-21.629703521728516
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.168821334838867,
+					-22.342273712158203
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.168773651123047,
+					-23.054845809936523
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.175250053405762,
+					-10.200035095214844
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.175297737121582,
+					-10.914654731750488
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.175202369689941,
+					-9.483511924743652
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.883345603942871,
+					-14.492177963256836
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.883393287658691,
+					-15.206511497497559
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.883440017700195,
+					-15.918749809265137
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.883393287658691,
+					-16.634321212768555
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.883440017700195,
+					-17.34865379333496
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.883487701416016,
+					-18.06089210510254
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.884393692016602,
+					-20.918560028076172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.884441375732422,
+					-21.629751205444336
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.884393692016602,
+					-22.342321395874023
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.884346008300781,
+					-23.054893493652344
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.890296936035156,
+					-10.200082778930664
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.890344619750977,
+					-10.914702415466309
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-15.88744068145752,
+					-11.638654708862305
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.88748836517334,
+					-12.351273536682129
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.88753604888916,
+					-13.065608024597168
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.88758373260498,
+					-13.777844429016113
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.885488510131836,
+					-18.768224716186523
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.885440826416016,
+					-19.482084274291992
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.885393142700195,
+					-20.19879913330078
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-15.890249252319336,
+					-9.483559608459473
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.60391616821289,
+					-10.199987411499023
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.60396385192871,
+					-10.914607048034668
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.599105834960938,
+					-11.638607025146484
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.59915542602539,
+					-12.351225852966309
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.599201202392578,
+					-13.065560340881348
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.59925079345703,
+					-13.777796745300293
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.598915100097656,
+					-14.492130279541016
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.59896469116211,
+					-15.206463813781738
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.599010467529297,
+					-15.918702125549316
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.59896469116211,
+					-16.634273529052734
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.599010467529297,
+					-17.34860610961914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.59906005859375,
+					-18.06084442138672
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.597631454467773,
+					-18.768177032470703
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-16.596393585205078,
+					-19.48427391052246
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-16.596345901489258,
+					-20.20075035095215
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-16.597679138183594,
+					-20.918607711791992
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.59772491455078,
+					-21.629796981811523
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.597679138183594,
+					-22.342369079589844
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-16.597631454467773,
+					-23.054941177368164
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-17.31215476989746,
+					-11.631368637084961
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-17.314916610717773,
+					-12.351178169250488
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.314964294433594,
+					-13.065512657165527
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310583114624023,
+					-14.492082595825195
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310630798339844,
+					-15.206416130065918
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310678482055664,
+					-15.918654441833496
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310630798339844,
+					-16.634225845336914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310678482055664,
+					-17.34855842590332
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.310726165771484,
+					-18.0607967376709
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.308107376098633,
+					-18.768129348754883
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-17.311201095581055,
+					-19.48422622680664
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-17.30963134765625,
+					-20.20079803466797
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-17.30958366394043,
+					-20.914796829223633
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-17.311391830444336,
+					-21.629844665527344
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-17.311344146728516,
+					-22.342416763305664
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-17.319011688232422,
+					-10.914654731750488
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-17.315011978149414,
+					-13.777750968933105
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.023439407348633,
+					-18.772083282470703
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.023391723632812,
+					-19.48417854309082
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.0242977142334,
+					-20.20084571838379
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.024250030517578,
+					-20.914844512939453
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.027202606201172,
+					-11.631416320800781
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.02634620666504,
+					-12.343416213989258
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.026391983032227,
+					-13.057607650756836
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.026439666748047,
+					-13.773226737976074
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.02634620666504,
+					-14.492036819458008
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.026391983032227,
+					-15.206369400024414
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.026439666748047,
+					-15.918606758117676
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.026391983032227,
+					-16.634178161621094
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.026439666748047,
+					-17.3485107421875
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.026487350463867,
+					-18.060749053955078
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.025726318359375,
+					-21.629892349243164
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.025678634643555,
+					-22.342464447021484
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.741535186767578,
+					-13.057655334472656
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.74158477783203,
+					-13.773274421691895
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.73758316040039,
+					-14.489035606384277
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.73767852783203,
+					-15.204036712646484
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.73763084411621,
+					-15.916321754455566
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.738725662231445,
+					-16.634130477905273
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.738773345947266,
+					-17.34846305847168
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.738821029663086,
+					-18.060701370239258
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.738534927368164,
+					-18.772035598754883
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.739582061767578,
+					-19.48394012451172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial"
+				],
+				"temp": [
+					4,
+					63
+				]
+			},
+			{
+				"gps": [
+					-18.738155364990234,
+					-20.20089340209961
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.738107681274414,
+					-20.914892196655273
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-18.740917205810547,
+					-21.629940032958984
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-18.740867614746094,
+					-22.342512130737305
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.451297760009766,
+					-14.489083290100098
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.451393127441406,
+					-15.204084396362305
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.451345443725586,
+					-15.91636848449707
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.45286750793457,
+					-16.630083084106445
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.45296287536621,
+					-17.345083236694336
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.45291519165039,
+					-18.057369232177734
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.453201293945312,
+					-18.771987915039062
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-19.453248977661133,
+					-19.4858455657959
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-19.451820373535156,
+					-20.20094108581543
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialHot"
+				],
+				"temp": [
+					7,
+					67
+				]
+			},
+			{
+				"gps": [
+					-19.455869674682617,
+					-20.916322708129883
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-19.455821990966797,
+					-21.62889289855957
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.165773391723633,
+					-15.91641616821289
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.166440963745117,
+					-16.630035400390625
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.166536331176758,
+					-17.345035552978516
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.166488647460938,
+					-18.057321548461914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.1666316986084,
+					-18.770511627197266
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.166584014892578,
+					-19.486608505249023
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.170202255249023,
+					-20.19927406311035
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.170154571533203,
+					-20.911846160888672
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.170106887817383,
+					-21.62427520751953
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.880535125732422,
+					-16.630083084106445
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.880582809448242,
+					-17.345083236694336
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.880630493164062,
+					-18.057321548461914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.880725860595703,
+					-18.770559310913086
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.880678176879883,
+					-19.486656188964844
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.883821487426758,
+					-20.199321746826172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.883773803710938,
+					-20.911893844604492
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-20.883726119995117,
+					-21.62432098388672
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-21.593441009521484,
+					-16.630130767822266
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-21.593488693237305,
+					-17.345130920410156
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-21.593536376953125,
+					-18.057369232177734
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-21.593629837036133,
+					-18.770606994628906
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-21.593582153320312,
+					-19.486703872680664
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-6.604583740234375,
+					-27.334177017211914
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-6.604536056518555,
+					-28.04546356201172
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-6.604488372802734,
+					-28.756559371948242
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-7.3172502517700195,
+					-26.61770248413086
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-7.31729793548584,
+					-27.334129333496094
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-7.3172502517700195,
+					-28.0454158782959
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-7.317202568054199,
+					-28.756511688232422
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.034250259399414,
+					-26.61765480041504
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.034297943115234,
+					-27.334081649780273
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.034250259399414,
+					-28.045368194580078
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.034202575683594,
+					-28.7564640045166
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.748202323913574,
+					-26.61760711669922
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.748250007629395,
+					-27.334033966064453
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.748202323913574,
+					-28.045320510864258
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-8.748154640197754,
+					-28.75641632080078
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.464012145996094,
+					-23.054988861083984
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463964462280273,
+					-23.766273498535156
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463964462280273,
+					-24.483131408691406
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463916778564453,
+					-25.194416046142578
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463916778564453,
+					-25.90565299987793
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463869094848633,
+					-26.616939544677734
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463869094848633,
+					-27.331417083740234
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463821411132812,
+					-28.04270362854004
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			},
+			{
+				"gps": [
+					-9.463773727416992,
+					-28.753795623779297
+				],
+				"name": "Equator",
+				"tags": [
+					"Equatorial",
+					"EquatorialWindy"
+				],
+				"temp": [
+					3,
+					54
+				]
+			}
+		],
+		"discoveries": [],
+		"grid": "B2",
+		"homeServer": true,
+		"id": 114,
+		"isControlPoint": false,
+		"islandHeight": 532000,
+		"islandWidth": 532000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_C_EE",
+		"region": "",
+		"resources": {
+			"Acerola": 374,
+			"Bark": 19,
+			"Basalt": 83,
+			"Chert": 32046,
+			"Cobalt": 31916,
+			"Coquina": 29144,
+			"Fronds": 24143,
+			"Granite": 23310,
+			"Gum": 190,
+			"Herkimer": 93,
+			"Iodine": 101,
+			"Jute": 59541,
+			"Maps": 63,
+			"Oak": 24281,
+			"Olives": 37,
+			"Sea Grapes": 47120,
+			"Sulfur": 127,
+			"Wild Chick Peas": 559
+		},
 		"rotation": 0,
 		"sublevels": [
-			"Cay_K",
-			"Cay_K_Far_01E",
-			"Cay_K_Farthest_01E",
-			"Cay_K_Near_01E",
-			"Cay_K_Marine_Warm_Near"
+			"Cay_C",
+			"Cay_C_Far_07",
+			"Cay_C_Farthest_07",
+			"Cay_C_Near_07",
+			"Cay_C_Marine_Warm_Near"
 		],
-		"worldX": 2094872.88,
-		"worldY": 2558606.75
+		"worldX": 1782256.75,
+		"worldY": 2491698.75
 	},
-	"104": {
+	"115": {
+		"animals": [
+			"Ant",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Elephant",
+			"Giraffe",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Scorpion",
+			"Tiger",
+			"Turtle"
+		],
+		"biomeTags": [
+			"Tropical",
+			"Tropics",
+			"WesternTropics"
+		],
+		"biomes": [
+			{
+				"gps": [
+					13.00338077545166,
+					26.32315444946289
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					13.083666801452637,
+					25.67702865600586
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					13.382583618164062,
+					25.065977096557617
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					13.567130088806152,
+					27.041297912597656
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					13.646451950073242,
+					26.402965545654297
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					13.726737976074219,
+					25.756845474243164
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.025655746459961,
+					25.14578628540039
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.163989067077637,
+					24.507875442504883
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.210857391357422,
+					27.12118911743164
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.290167808532715,
+					26.48285675048828
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.370463371276855,
+					25.83673858642578
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.669381141662598,
+					25.225677490234375
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.807714462280273,
+					24.5877685546875
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.859737396240234,
+					27.20172691345215
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.887392044067383,
+					23.94655990600586
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					14.939047813415527,
+					26.56339454650879
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.019332885742188,
+					25.917266845703125
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.318262100219727,
+					25.30621337890625
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.456594467163086,
+					24.668296813964844
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.536273956298828,
+					24.027090072631836
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.581785202026367,
+					26.643213272094727
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.616476058959961,
+					23.381671905517578
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.662071228027344,
+					25.99708366394043
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					15.96098804473877,
+					25.386024475097656
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.028215408325195,
+					22.7817440032959
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.099321365356445,
+					24.748119354248047
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.178998947143555,
+					24.106904983520508
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.25920295715332,
+					23.461488723754883
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.670940399169922,
+					22.8615665435791
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.74342918395996,
+					24.828060150146484
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.758535385131836,
+					22.220375061035156
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.82310676574707,
+					24.186845779418945
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					16.903308868408203,
+					23.541427612304688
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.315048217773438,
+					22.941505432128906
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.40221405029297,
+					22.300260543823242
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.467023849487305,
+					24.266761779785156
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.48232078552246,
+					21.655553817749023
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.547225952148438,
+					23.62134552001953
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.5617618560791,
+					21.016281127929688
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					17.958965301513672,
+					23.021421432495117
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.046321868896484,
+					22.380203247070312
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.110750198364258,
+					24.346654891967773
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.126428604125977,
+					21.73549461364746
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.19095230102539,
+					23.70123863220215
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.205869674682617,
+					21.096220016479492
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.602689743041992,
+					23.101314544677734
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.690237045288086,
+					22.460119247436523
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.770343780517578,
+					21.815410614013672
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.828916549682617,
+					23.78041648864746
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					18.84978485107422,
+					21.176137924194336
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.24065589904785,
+					23.18049430847168
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.333965301513672,
+					22.54001235961914
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.414072036743164,
+					21.895309448242188
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.471593856811523,
+					23.860185623168945
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.493511199951172,
+					21.25602912902832
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.883344650268555,
+					23.260255813598633
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					19.971927642822266,
+					22.619190216064453
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.052034378051758,
+					21.9744815826416
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.11201286315918,
+					23.939762115478516
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.1314754486084,
+					21.335208892822266
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.52374839782715,
+					23.339834213256836
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.614620208740234,
+					22.698957443237305
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.694726943969727,
+					22.054250717163086
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.755035400390625,
+					24.01951789855957
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					20.774166107177734,
+					21.414976119995117
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.166772842407227,
+					23.419593811035156
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.223344802856445,
+					20.164993286132812
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.255023956298828,
+					22.778535842895508
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.303071975708008,
+					19.523357391357422
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.33513069152832,
+					22.133827209472656
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.382892608642578,
+					18.881011962890625
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.41457176208496,
+					21.49455451965332
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.786762237548828,
+					20.889667510986328
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.86376190185547,
+					20.244571685791016
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.898048400878906,
+					22.858291625976562
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.94348907470703,
+					19.602935791015625
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					21.978166580200195,
+					22.21358299255371
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					22.05759620666504,
+					21.574310302734375
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					22.427167892456055,
+					20.9692440032959
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					22.507381439208984,
+					20.324546813964844
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					22.587106704711914,
+					19.682910919189453
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					22.697999954223633,
+					21.653886795043945
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					23.070785522460938,
+					21.04922103881836
+				],
+				"name": "Western Tropics",
+				"tags": [
+					"Tropics",
+					"WesternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			}
+		],
+		"discoveries": [],
+		"grid": "B2",
+		"homeServer": true,
+		"id": 115,
+		"isControlPoint": false,
+		"islandHeight": 306000,
+		"islandWidth": 306000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Cay_A_WR",
+		"region": "",
+		"resources": {
+			"Acai": 13449,
+			"Acerola": 363,
+			"Aloe": 7854,
+			"Ash": 2671,
+			"Basalt": 1208,
+			"Calcite": 204,
+			"Cilantro": 32495,
+			"Coconut": 200,
+			"Copper": 14,
+			"Elderberry": 178,
+			"Emerald": 204,
+			"Fronds": 1112,
+			"Granite": 12784,
+			"Graphite": 532,
+			"Hemp": 44428,
+			"Honey": 35,
+			"Iron": 1191,
+			"Lime": 173,
+			"Maps": 15,
+			"Oak": 9989,
+			"Reeds": 2671,
+			"Rushes": 9200,
+			"Sugars": 1110,
+			"Wild Beans": 460,
+			"Wild Rice": 823
+		},
+		"rotation": 172.920944,
+		"sublevels": [
+			"Cay_A",
+			"Cay_A_Far_04",
+			"Cay_A_Farthest_04",
+			"Cay_A_Near_04",
+			"Cay_A_Marine_Warm_Near"
+		],
+		"worldX": 2477856,
+		"worldY": 1633446.5
+	},
+	"116": {
 		"animals": [
 			"Bear",
 			"Cat",
@@ -71404,8 +76469,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomeTags": [
 			"EasternTropics",
@@ -71416,8 +76480,8 @@
 		"biomes": [
 			{
 				"gps": [
-					-0.2397499978542328,
-					23.829345703125
+					-13.624445915222168,
+					22.546445846557617
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71432,8 +76496,8 @@
 			},
 			{
 				"gps": [
-					-0.24625596404075623,
-					22.55927276611328
+					-13.654560089111328,
+					22.285816192626953
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71448,8 +76512,8 @@
 			},
 			{
 				"gps": [
-					-0.32292261719703674,
-					24.474464416503906
+					-13.839583396911621,
+					21.323583602905273
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71464,8 +76528,8 @@
 			},
 			{
 				"gps": [
-					-0.34031546115875244,
-					23.20127296447754
+					-14.377750396728516,
+					22.526077270507812
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71480,8 +76544,8 @@
 			},
 			{
 				"gps": [
-					-0.4055059552192688,
-					25.117755889892578
+					-14.536178588867188,
+					21.633529663085938
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71496,8 +76560,8 @@
 			},
 			{
 				"gps": [
-					-0.8721725940704346,
-					23.74815559387207
+					-14.90445327758789,
+					22.171998977661133
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71512,8 +76576,8 @@
 			},
 			{
 				"gps": [
-					-0.879672646522522,
-					22.479583740234375
+					-15.057857513427734,
+					21.278844833374023
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71528,8 +76592,8 @@
 			},
 			{
 				"gps": [
-					-0.9505714178085327,
-					24.39340591430664
+					-15.269237518310547,
+					22.707683563232422
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71544,8 +76608,8 @@
 			},
 			{
 				"gps": [
-					-0.9653273820877075,
-					23.125356674194336
+					-15.426887512207031,
+					21.815671920776367
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71560,8 +76624,152 @@
 			},
 			{
 				"gps": [
-					-0.9941844940185547,
-					22.325119018554688
+					-15.58041763305664,
+					20.921857833862305
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-15.590439796447754,
+					21.752029418945312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-15.786833763122559,
+					22.35523796081543
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.111547470092773,
+					21.389690399169922
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.258316040039062,
+					20.50407600402832
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.309261322021484,
+					21.998916625976562
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.633405685424805,
+					21.03352928161621
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.6731014251709,
+					22.532363891601562
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.786636352539062,
+					20.14568519592285
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.818607330322266,
+					19.956083297729492
 				],
 				"name": "Eastern Tropics (Freeport)",
 				"tags": [
@@ -71576,8 +76784,24 @@
 			},
 			{
 				"gps": [
-					-1.0132559537887573,
-					22.326534271240234
+					-16.828731536865234,
+					21.63886833190918
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"Tropical"
+				],
+				"temp": [
+					2,
+					61
+				]
+			},
+			{
+				"gps": [
+					-16.83625030517578,
+					19.94869041442871
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71593,8 +76817,8 @@
 			},
 			{
 				"gps": [
-					-1.0331547260284424,
-					25.036701202392578
+					-17.15595245361328,
+					20.682315826416016
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71609,8 +76833,8 @@
 			},
 			{
 				"gps": [
-					-1.4998809099197388,
-					23.667570114135742
+					-17.19553565979004,
+					22.176036834716797
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71625,8 +76849,8 @@
 			},
 			{
 				"gps": [
-					-1.5078868865966797,
-					22.397310256958008
+					-17.309154510498047,
+					19.787351608276367
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71641,8 +76865,8 @@
 			},
 			{
 				"gps": [
-					-1.5819165706634521,
-					24.30661392211914
+					-17.355487823486328,
+					21.27959632873535
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71657,8 +76881,8 @@
 			},
 			{
 				"gps": [
-					-1.5872617959976196,
-					23.042678833007812
+					-17.560989379882812,
+					22.71184539794922
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71673,8 +76897,8 @@
 			},
 			{
 				"gps": [
-					-1.6713570356369019,
-					23.68164825439453
+					-17.672691345214844,
+					20.32646942138672
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71689,8 +76913,8 @@
 			},
 			{
 				"gps": [
-					-2.140511989593506,
-					22.316089630126953
+					-17.718093872070312,
+					21.819047927856445
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71705,8 +76929,8 @@
 			},
 			{
 				"gps": [
-					-2.2094762325286865,
-					24.226619720458984
+					-17.836076736450195,
+					19.427963256835938
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71721,8 +76945,8 @@
 			},
 			{
 				"gps": [
-					-2.291797637939453,
-					24.875595092773438
+					-17.878320693969727,
+					20.92300033569336
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71737,8 +76961,8 @@
 			},
 			{
 				"gps": [
-					-2.300595283508301,
-					23.60022735595703
+					-18.037517547607422,
+					20.857749938964844
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71753,8 +76977,8 @@
 			},
 			{
 				"gps": [
-					-2.3817620277404785,
-					24.245101928710938
+					-18.083547592163086,
+					22.3548583984375
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71769,8 +76993,8 @@
 			},
 			{
 				"gps": [
-					-2.463148832321167,
-					24.892749786376953
+					-18.241357803344727,
+					21.45526885986328
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71785,8 +77009,8 @@
 			},
 			{
 				"gps": [
-					-2.9246666431427,
-					23.518131256103516
+					-18.389928817749023,
+					18.10527992248535
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71801,8 +77025,8 @@
 			},
 			{
 				"gps": [
-					-3.0078749656677246,
-					24.166292190551758
+					-18.56133270263672,
+					20.49970245361328
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71817,8 +77041,8 @@
 			},
 			{
 				"gps": [
-					-3.2341666221618652,
-					21.388643264770508
+					-18.754846572875977,
+					18.640304565429688
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71833,8 +77057,8 @@
 			},
 			{
 				"gps": [
-					-3.3166308403015137,
-					22.030994415283203
+					-18.764314651489258,
+					21.099262237548828
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71849,8 +77073,8 @@
 			},
 			{
 				"gps": [
-					-3.577892780303955,
-					23.636207580566406
+					-18.926237106323242,
+					21.03757095336914
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71865,8 +77089,8 @@
 			},
 			{
 				"gps": [
-					-3.6612439155578613,
-					24.284576416015625
+					-19.080232620239258,
+					20.143417358398438
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71881,8 +77105,8 @@
 			},
 			{
 				"gps": [
-					-4.208737850189209,
-					23.55846405029297
+					-19.13210678100586,
+					21.640262603759766
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71897,8 +77121,8 @@
 			},
 			{
 				"gps": [
-					-4.293571472167969,
-					24.206642150878906
+					-19.2925968170166,
+					21.577804565429688
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71913,8 +77137,8 @@
 			},
 			{
 				"gps": [
-					0.2863333225250244,
-					23.281904220581055
+					-19.44844627380371,
+					20.683279037475586
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71929,8 +77153,8 @@
 			},
 			{
 				"gps": [
-					0.30430954694747925,
-					24.554988861083984
+					-19.71592903137207,
+					19.952285766601562
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71945,8 +77169,8 @@
 			},
 			{
 				"gps": [
-					0.38653573393821716,
-					23.91452407836914
+					-20.084369659423828,
+					20.49226188659668
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71961,8 +77185,8 @@
 			},
 			{
 				"gps": [
-					0.5474047660827637,
-					22.6240291595459
+					-20.242843627929688,
+					19.596790313720703
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -71977,168 +77201,8 @@
 			},
 			{
 				"gps": [
-					0.9151071310043335,
-					23.368392944335938
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.0137619972229004,
-					23.99504852294922
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.089738130569458,
-					23.350910186767578
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.1750476360321045,
-					22.705081939697266
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.6349166631698608,
-					24.074310302734375
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.716976284980774,
-					23.431434631347656
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					1.8008570671081543,
-					22.784488677978516
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					2.2810237407684326,
-					22.192237854003906
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					2.3469879627227783,
-					23.508012771606445
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					2.8824641704559326,
-					22.965797424316406
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					3.027547597885132,
-					23.184404373168945
+					-20.612518310546875,
+					20.135929107666016
 				],
 				"name": "Eastern Tropics",
 				"tags": [
@@ -72155,7 +77219,7 @@
 		"discoveries": [],
 		"grid": "B2",
 		"homeServer": true,
-		"id": 104,
+		"id": 116,
 		"isControlPoint": false,
 		"islandHeight": 254000,
 		"islandWidth": 254000,
@@ -72220,7 +77284,7 @@
 			"Wild Rice": 1162,
 			"Wood": 2098
 		},
-		"rotation": -187.315521,
+		"rotation": -214.29599,
 		"sublevels": [
 			"Cay_K",
 			"Cay_K_Far_01E",
@@ -72228,1685 +77292,7 @@
 			"Cay_K_Near_01E",
 			"Cay_K_Marine_Warm_Near"
 		],
-		"worldX": 2104101.5,
-		"worldY": 1644982.75
-	},
-	"105": {
-		"animals": [
-			"Bear",
-			"Cat",
-			"Chicken",
-			"Cow",
-			"Horse",
-			"Monkey",
-			"Parrot",
-			"Pig",
-			"Rabbit",
-			"Seagull",
-			"Turtle",
-			null
-		],
-		"biomeTags": [
-			"EasternTropics",
-			"EasternTropicsShady",
-			"Tropical",
-			"Tropics"
-		],
-		"biomes": [
-			{
-				"gps": [
-					20.77204704284668,
-					2.781863212585449
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.410856246948242,
-					2.888333320617676
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.739809036254883,
-					1.7237143516540527
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.781679153442383,
-					-2.699357032775879
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.79177474975586,
-					0.5785297751426697
-				],
-				"name": "Eastern Tropics (Freeport)",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.792476654052734,
-					0.5976428985595703
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsShady",
-					"Tropical"
-				],
-				"temp": [
-					0.10000000149011612,
-					59
-				]
-			},
-			{
-				"gps": [
-					21.844667434692383,
-					1.0945773124694824
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					21.950416564941406,
-					0.4698868989944458
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.05378532409668,
-					-0.1600952297449112
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.148225784301758,
-					-0.9507738351821899
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.25273895263672,
-					-1.5749404430389404
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.35552406311035,
-					-2.19734525680542
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.48661994934082,
-					1.1980774402618408
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.577238082885742,
-					-3.271392822265625
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.5925350189209,
-					0.579672634601593
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.691810607910156,
-					-0.0420595221221447
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.79585838317871,
-					-0.665238082408905
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.80110740661621,
-					-3.4081907272338867
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.8949031829834,
-					-1.465499997138977
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.903833389282227,
-					3.8370296955108643
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.905845642089844,
-					-1.2903451919555664
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.911630630493164,
-					2.5523452758789062
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					22.998882293701172,
-					-2.089273691177368
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.00516700744629,
-					3.209535837173462
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.017047882080078,
-					1.9317975044250488
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.0989990234375,
-					-2.7159881591796875
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.11434555053711,
-					1.1341607570648193
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.12198829650879,
-					1.3060417175292969
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.218381881713867,
-					0.5099166631698608
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.323213577270508,
-					-0.11902380734682083
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.431785583496094,
-					-0.7416785955429077
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.535749435424805,
-					-1.3654524087905884
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.548381805419922,
-					3.9460833072662354
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.55622673034668,
-					2.6597797870635986
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.638225555419922,
-					-1.9832024574279785
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.646406173706055,
-					1.8642022609710693
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.649951934814453,
-					3.3171191215515137
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.658428192138672,
-					2.0370595455169678
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.749868392944336,
-					1.2400833368301392
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.86025047302246,
-					0.6124285459518433
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					23.96476173400879,
-					-0.011738095432519913
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					24.068714141845703,
-					-0.635523796081543
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					24.29185676574707,
-					1.970773696899414
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					24.30257225036621,
-					2.142648696899414
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					24.5,
-					0.7190476059913635
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					24.60449981689453,
-					0.09488094598054886
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			}
-		],
-		"discoveries": [],
-		"grid": "B2",
-		"homeServer": true,
-		"id": 105,
-		"isControlPoint": false,
-		"islandHeight": 254000,
-		"islandWidth": 254000,
-		"maps": [
-			[
-				1,
-				0.5,
-				0.5,
-				1
-			],
-			[
-				0.4000000059604645,
-				5,
-				10,
-				2
-			],
-			[
-				0.15000000596046448,
-				10,
-				15,
-				2
-			],
-			[
-				0.05999999865889549,
-				15,
-				20,
-				2
-			],
-			[
-				0.019999999552965164,
-				20,
-				25,
-				2
-			]
-		],
-		"name": "Cay_K_TR_E",
-		"region": "",
-		"resources": {
-			"Acai": 8824,
-			"Acerola": 80,
-			"Basil": 1,
-			"Blackberry": 1,
-			"Cilantro": 123,
-			"Coal": 159,
-			"Crystal": 57,
-			"Elderberry": 624,
-			"Fibers": 15806,
-			"Flint": 2247,
-			"FreshWater": 1,
-			"Maps": 18,
-			"Metal": 2230,
-			"Saps": 593,
-			"Stone": 6320,
-			"Strawberry": 4,
-			"Sugarcane": 609,
-			"Thatch": 2258,
-			"Turmeric": 517,
-			"Wild Beans": 161,
-			"Wild Cactus": 1,
-			"Wild Carrot": 3,
-			"Wild Onion": 6,
-			"Wild Rice": 1162,
-			"Wood": 2098
-		},
-		"rotation": -99.462326,
-		"sublevels": [
-			"Cay_K",
-			"Cay_K_Far_01E",
-			"Cay_K_Farthest_01E",
-			"Cay_K_Near_01E",
-			"Cay_K_Marine_Warm_Near"
-		],
-		"worldX": 2544762.5,
-		"worldY": 2113330
-	},
-	"106": {
-		"animals": [
-			"Bear",
-			"Cat",
-			"Chicken",
-			"Cow",
-			"Horse",
-			"Monkey",
-			"Parrot",
-			"Pig",
-			"Rabbit",
-			"Seagull",
-			"Turtle",
-			null
-		],
-		"biomeTags": [
-			"EasternTropics",
-			"EasternTropicsShady",
-			"Tropical",
-			"Tropics"
-		],
-		"biomes": [
-			{
-				"gps": [
-					-21.05003547668457,
-					-2.8440001010894775
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-21.689130783081055,
-					-2.948714256286621
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.0148868560791,
-					-1.7831904888153076
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.044588088989258,
-					2.6399760246276855
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.063695907592773,
-					-0.6378690004348755
-				],
-				"name": "Eastern Tropics (Freeport)",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.064451217651367,
-					-0.6569761633872986
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsShady",
-					"Tropical"
-				],
-				"temp": [
-					0.10000000149011612,
-					59
-				]
-			},
-			{
-				"gps": [
-					-22.118013381958008,
-					-1.1537737846374512
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.222042083740234,
-					-0.5287857055664062
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.323678970336914,
-					0.10147618502378464
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.41594123840332,
-					0.8924047350883484
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.51873779296875,
-					1.5168631076812744
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.619815826416016,
-					2.13954758644104
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.760238647460938,
-					-1.255500078201294
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.838560104370117,
-					3.2141964435577393
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.864458084106445,
-					-0.6368095278739929
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-22.96202278137207,
-					-0.014809523709118366
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.064363479614258,
-					0.6086547374725342
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.062070846557617,
-					3.351607084274292
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.16121482849121,
-					1.4091845750808716
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.172618865966797,
-					1.234059453010559
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.18471908569336,
-					-3.8932974338531494
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.188982009887695,
-					-2.608595132827759
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.263458251953125,
-					2.0332441329956055
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.284317016601562,
-					-3.265523910522461
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.29269027709961,
-					-1.9877618551254272
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.36186408996582,
-					2.660226345062256
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.38779640197754,
-					-1.1898571252822876
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.395904541015625,
-					-1.3617143630981445
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.49011993408203,
-					-0.565333366394043
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.59320831298828,
-					0.06389285624027252
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.700084686279297,
-					0.6868392825126648
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.80232810974121,
-					1.310898780822754
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.833864212036133,
-					-2.714262008666992
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.829559326171875,
-					-4.000583171844482
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.903106689453125,
-					1.9289284944534302
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.921863555908203,
-					-1.9184404611587524
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.934356689453125,
-					-2.091261863708496
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-23.929393768310547,
-					-3.371345281600952
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.023601531982422,
-					-1.294035792350769
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.13225555419922,
-					-0.6660714149475098
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.235048294067383,
-					-0.04161904752254486
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.337297439575195,
-					0.5824345350265503
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.567594528198242,
-					-2.023238182067871
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.578792572021484,
-					-2.1950833797454834
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.77229881286621,
-					-0.7709404826164246
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-24.875083923339844,
-					-0.14648810029029846
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			}
-		],
-		"discoveries": [],
-		"grid": "B2",
-		"homeServer": true,
-		"id": 106,
-		"isControlPoint": false,
-		"islandHeight": 254000,
-		"islandWidth": 254000,
-		"maps": [
-			[
-				1,
-				0.5,
-				0.5,
-				1
-			],
-			[
-				0.4000000059604645,
-				5,
-				10,
-				2
-			],
-			[
-				0.15000000596046448,
-				10,
-				15,
-				2
-			],
-			[
-				0.05999999865889549,
-				15,
-				20,
-				2
-			],
-			[
-				0.019999999552965164,
-				20,
-				25,
-				2
-			]
-		],
-		"name": "Cay_K_TR_E",
-		"region": "",
-		"resources": {
-			"Acai": 8824,
-			"Acerola": 80,
-			"Basil": 1,
-			"Blackberry": 1,
-			"Cilantro": 123,
-			"Coal": 159,
-			"Crystal": 57,
-			"Elderberry": 624,
-			"Fibers": 15806,
-			"Flint": 2247,
-			"FreshWater": 1,
-			"Maps": 18,
-			"Metal": 2230,
-			"Saps": 593,
-			"Stone": 6320,
-			"Strawberry": 4,
-			"Sugarcane": 609,
-			"Thatch": 2258,
-			"Turmeric": 517,
-			"Wild Beans": 161,
-			"Wild Cactus": 1,
-			"Wild Carrot": 3,
-			"Wild Onion": 6,
-			"Wild Rice": 1162,
-			"Wood": 2098
-		},
-		"rotation": 80.69522,
-		"sublevels": [
-			"Cay_K",
-			"Cay_K_Far_01E",
-			"Cay_K_Farthest_01E",
-			"Cay_K_Near_01E",
-			"Cay_K_Marine_Warm_Near"
-		],
-		"worldX": 1649597.13,
-		"worldY": 2087951.63
+		"worldX": 1775335.38,
+		"worldY": 1681896.63
 	}
 }
