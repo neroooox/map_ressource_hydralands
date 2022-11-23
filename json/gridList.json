@@ -399,7 +399,7 @@
 				1
 			]
 		},
-		"forceServerRules": 5,
+		"forceServerRules": 0,
 		"name": "A3 - (HydraLands)",
 		"region": "",
 		"resources": [
