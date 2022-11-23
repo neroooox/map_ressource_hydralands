@@ -260,23 +260,6 @@
                 "Weight": 1.0
             }
         ],
-        "DinoDropInventoryComponent_Mythical_Buwaya_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
         "DinoDropInventoryComponent_Mythical_Cyclops_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -327,40 +310,6 @@
             }
         ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
-        "DinoDropInventoryComponent_Mythical_Eber_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
-        "DinoDropInventoryComponent_Mythical_FireElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -461,23 +410,6 @@
             }
         ],
         "DinoDropInventoryComponent_Mythical_Kekada_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
-        "DinoDropInventoryComponent_Mythical_RockElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,

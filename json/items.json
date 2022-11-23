@@ -1989,6 +1989,18 @@
         },
         "Name": "Acerolla Seed"
     },
+    "Admin Assistant": {
+        "ClassName": "YarkWeaponAdminPistol_C",
+        "Icon": "Item_Pistol_Icon",
+        "Ingredients": {
+            "Flint": 16.0,
+            "Hide": 18.0,
+            "Metal": 36.0,
+            "Oil": 8.0,
+            "Wood": 22.0
+        },
+        "Name": "Admin Assistant"
+    },
     "Advanced Shipyard": {
         "ClassName": "Structure_Shipyard_Advanced_C",
         "Icon": "Item_LargeDrydock_Icon",
@@ -5314,6 +5326,17 @@
         "ClassName": "Resource_EssenceOfTheMaw_C",
         "Icon": "ICON_MawEssence",
         "Name": "Essence of the Maw"
+    },
+    "Euthanasia Dagger": {
+        "ClassName": "YarkWeapon_EuthanasiaDagger_C",
+        "Icon": "Item_Knife_Icon",
+        "Ingredients": {
+            "Bone": 10.0,
+            "Gem": 20.0,
+            "Hide": 6.0,
+            "Metal": 28.0
+        },
+        "Name": "Euthanasia Dagger"
     },
     "Explosive Barrel": {
         "ClassName": "Ammo_ExplosiveBarrel_C",
@@ -8756,6 +8779,16 @@
         },
         "Name": "Kraken Wheel"
     },
+    "Kwaka's pirates Jukebox": {
+        "ClassName": "Structure_JukeBox_C",
+        "Icon": "JukeBoxIcon",
+        "Ingredients": {
+            "Metal": 25.0,
+            "Thatch": 50.0,
+            "Wood": 100.0
+        },
+        "Name": "Kwaka's pirates Jukebox"
+    },
     "Ladder": {
         "ClassName": "StructureBase_Ladder_Static_C",
         "Icon": "MenuArrowRight",
@@ -10910,6 +10943,17 @@
             "Pepper": 1.0
         },
         "Name": "Pepper Seed"
+    },
+    "PickUp Hammer": {
+        "ClassName": "WeaponPickUpHammer_C",
+        "Icon": "Item_RepairMallet_Icon",
+        "Ingredients": {
+            "Fibers": 25.0,
+            "Metal": 8.0,
+            "Thatch": 32.0,
+            "Wood": 23.0
+        },
+        "Name": "PickUp Hammer"
     },
     "Pike": {
         "ClassName": "WeaponYarkPike_C",
@@ -13806,6 +13850,18 @@
         "Icon": "SmallStorage_Icon",
         "Name": "Structure Cheat Box"
     },
+    "Structure Company Rank Tool": {
+        "ClassName": "YarkWeaponCompanyRankPistol_C",
+        "Icon": "Item_CompPistol_Icon",
+        "Ingredients": {
+            "Flint": 16.0,
+            "Hide": 18.0,
+            "Metal": 36.0,
+            "Oil": 8.0,
+            "Wood": 22.0
+        },
+        "Name": "Structure Company Rank Tool"
+    },
     "Structure Studies": {
         "ClassName": "Structure_ModularRoomStructures_C",
         "Icon": "T_StructureRoom_Icon",
@@ -14701,6 +14757,17 @@
             "Ballista Bolt": 1.0
         },
         "Name": "Tranq Spear Bolt"
+    },
+    "Transfer Hammer": {
+        "ClassName": "WeaponTransferHammer_C",
+        "Icon": "Item_RepairMallet_Icon",
+        "Ingredients": {
+            "Fibers": 25.0,
+            "Metal": 8.0,
+            "Thatch": 32.0,
+            "Wood": 23.0
+        },
+        "Name": "Transfer Hammer"
     },
     "Transient tracker": {
         "ClassName": "WeaponDowsingRod_C",
